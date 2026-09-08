@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">Entrega · Grecia — 30 Entregas</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Playfair+Display:wght@600;700;800&family=Jost:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: { extend: {
+      colors: {
+        aegean: { 950:'#0a2a3f', 900:'#0F3854', 800:'#144a6c' },
+        ionian: { 600:'#1D8A99', 400:'#4AB0B8', 300:'#7ecdd3' },
+        marble: { 50:'#F9F8F6', 100:'#f3f1ec', 200:'#e9e4d9' },
+        terracotta: { DEFAULT:'#E07A5F', dark:'#c15f45' },
+        gold: { 500:'#D4AF37', 600:'#b7952b' },
+      },
+      fontFamily: {
+        serif: ['Cormorant Garamond','Playfair Display','Georgia','serif'],
+        display: ['Playfair Display','Georgia','serif'],
+        sans: ['Jost','Inter','system-ui','sans-serif'],
+      }
+    }}
+  }
+</script>
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js" defer></script>
+</head>
+<body class="font-sans">
+
+<div id="reading-progress"></div>
+
+<!-- ============ NAV ============ -->
+<header class="sticky top-0 z-50 glass">
+  <div class="max-w-7xl mx-auto px-5 md:px-8 py-3 flex items-center justify-between gap-4">
+    <a href="index.html" class="flex items-center gap-2.5 shrink-0">
+      <i data-lucide="anchor" class="w-6 h-6 text-terracotta"></i>
+      <span class="font-display font-bold text-aegean-900 text-lg hidden sm:inline" data-i18n="site_name">Grecia · Plan de Formación</span>
+    </a>
+    <div class="flex items-center gap-2">
+      <button id="toc-toggle" class="lg:hidden flex items-center gap-1.5 text-sm font-medium text-aegean-900 border border-gold-500/40 rounded-full px-3 py-1.5">
+        <i data-lucide="list" class="w-4 h-4"></i>
+        <span data-i18n="toc_title">Índice</span>
+      </button>
+      <a href="index.html" class="hidden sm:flex items-center gap-1.5 text-sm font-medium text-aegean-900 hover:text-terracotta transition">
+        <i data-lucide="home" class="w-4 h-4"></i>
+        <span data-i18n="back_home">Volver al inicio</span>
+      </a>
+      <div class="lang-toggle">
+        <button data-lang="es">ES</button>
+        <button data-lang="en">EN</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="max-w-7xl mx-auto px-5 md:px-8 py-10 lg:py-14 grid lg:grid-cols-[240px_1fr] gap-10">
+
+  <!-- ============ FLOATING TOC (desktop) ============ -->
+  <aside class="hidden lg:block">
+    <div class="sticky top-24">
+      <div id="toc-panel" class="glass rounded-2xl p-4">
+        <div class="text-xs uppercase tracking-widest text-terracotta font-semibold mb-3 flex items-center gap-1.5">
+          <i data-lucide="list-tree" class="w-3.5 h-3.5"></i>
+          <span data-i18n="toc_title">Índice</span>
+        </div>
+        <nav id="toc-links" class="space-y-0.5"></nav>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ============ MOBILE TOC DRAWER ============ -->
+  <div id="toc-drawer" class="fixed inset-0 z-50 hidden lg:hidden">
+    <div id="toc-backdrop" class="absolute inset-0 bg-aegean-950/60"></div>
+    <div class="absolute right-0 top-0 bottom-0 w-72 bg-marble-50 p-5 overflow-y-auto">
+      <div class="flex items-center justify-between mb-4">
+        <span class="font-display font-bold text-aegean-900" data-i18n="toc_title">Índice</span>
+        <button id="toc-close"><i data-lucide="x" class="w-5 h-5 text-aegean-900"></i></button>
+      </div>
+      <nav id="toc-links-mobile" class="space-y-0.5"></nav>
+    </div>
+  </div>
+
+  <!-- ============ ARTICLE ============ -->
+  <article id="article-root" class="min-w-0">
+    <!-- filled by reader.js -->
+  </article>
+</div>
+
+<footer class="border-t border-gold-500/20 bg-aegean-900 text-marble-100/70">
+  <div class="max-w-7xl mx-auto px-5 md:px-8 py-8 text-center text-sm" data-i18n="footer_note">
+    Plan de formación privado — CliO Consulting · 2026
+  </div>
+</footer>
+
+<script src="assets/js/content.js"></script>
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/utils.js"></script>
+<script src="assets/js/reader.js"></script>
+</body>
+</html>
