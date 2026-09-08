@@ -1,0 +1,106 @@
+{
+  "numero": 25,
+  "bloque_num": "V",
+  "bloque_nombre": "GRECIA CONTEMPORÁNEA",
+  "dias": "24–30",
+  "titulo": "La convergencia contable",
+  "subtitulo": "PASOK, fondos estructurales y el ingreso al euro: veinte años construyendo la crisis (1981 – 2001)",
+  "fecha_emision": "16 de agosto de 2026",
+  "viaje": "Atenas – Corfú – Paxos · salida 11 de septiembre de 2026",
+  "destinataria": "Daniela Martuccelli — socióloga",
+  "registro": "ensayo analítico · 25 de 30",
+  "glosario": [
+    "ALLAGÍ",
+    "DEVALUACIÓN INTERNA",
+    "OTAN",
+    "PASOK"
+  ],
+  "coda": {
+    "heading": "Coda para el viaje: qué mirar",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "En Atenas, el metro. Fue construido en los años noventa con financiación europea y es excelente: limpio, puntual, y con vitrinas arqueológicas en varias estaciones —Sintagma, Monastiraki, Acrópolis— que exhiben lo hallado durante la excavación. Es un buen símbolo del período: infraestructura europea que al excavar tropieza con la Antigüedad y la incorpora al trayecto cotidiano. Fíjate en cómo se presenta."
+      },
+      {
+        "label": "",
+        "text": "En Corfú, pregunta por los fondos europeos: el aeropuerto, el puerto de cruceros, las carreteras. Y pregunta quién los gestiona y a quién beneficiaron. En una isla que vive del turismo, la infraestructura financiada con fondos de cohesión aumenta la capacidad de recibir visitantes, es decir, profundiza la especialización en lugar de diversificarla. Es el mismo debate del canon: la inversión pública puede reforzar la dependencia que pretendía compensar."
+      }
+    ],
+    "closing": [
+      "Fíjate también en el aeropuerto Eleftherios Venizelos, inaugurado en 2001, y en las autopistas: son de este período. Y contrástalo con el estado de escuelas y hospitales públicos si tienes ocasión de verlos. Esa asimetría entre infraestructura de transporte de primer nivel y servicios sociales tensionados es el retrato del modelo."
+    ],
+    "next_hint": "La próxima entrega es la central del bloque: 2008–2015. La revelación del déficit, el primer memorando, la troika, la caída del producto, el referéndum de julio de 2015 y su reversión en una semana."
+  },
+  "resonancias": {
+    "num": "V",
+    "heading": "Resonancias 2024–2026",
+    "paragraphs": [
+      "Dos herencias vivas. La primera: la arquitectura del euro se corrigió parcialmente después de 2012 —unión bancaria, mecanismo europeo de estabilidad, el compromiso del Banco Central Europeo de hacer lo necesario, y desde 2020 el fondo de recuperación con emisión de deuda común, que rompió un tabú fundacional—. Es decir, la unión monetaria adquirió tarde y a golpes parte de las instituciones que le faltaban. Grecia pagó buena parte del costo de ese aprendizaje.",
+      "La segunda: los fondos europeos siguen siendo el principal instrumento de inversión pública griega, ahora vía el plan de recuperación posterior a la pandemia, y el debate sobre su absorción y su calidad de gasto se reeditó en 2024–2026 con los mismos términos de los años noventa. Nada envejece menos que una discusión sobre capacidad de ejecución.",
+      "Y una advertencia de método antes de la próxima entrega. Sobre la crisis griega existen dos relatos completos y mutuamente excluyentes: el del país que vivió por encima de sus posibilidades y fue rescatado, y el del país sacrificado para salvar a los bancos franceses y alemanes expuestos a su deuda. Ambos contienen hechos verdaderos y ambos omiten deliberadamente lo que no les conviene. La próxima entrega intentará sostener las dos series de hechos a la vez, que es lo único que permite entender por qué la crisis fue tan destructiva y por qué ninguna de las dos narrativas produjo una salida."
+    ]
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "El Cambio: inclusión por vía del Estado",
+      "paragraphs": [
+        "El PASOK ganó las elecciones de octubre de 1981 con la consigna ALLAGÍ, el Cambio, y con un programa que combinaba socialismo, tercermundismo y nacionalismo: salida de la OTAN, cuestionamiento de la Comunidad Europea, bases estadounidenses fuera. No cumplió ninguna de las tres. Andreas Papandreou —economista formado y con carrera académica en Estados Unidos, hijo del primer ministro derrocado en 1965— gobernó once de los siguientes trece años.",
+        "Lo que sí hizo fue una transformación social real y conviene reconocerla antes de criticarla. Se creó el sistema nacional de salud en 1983. Se reconoció legalmente la Resistencia en 1982. Se aprobó en 1983 una reforma del derecho de familia que suprimió la dote como institución legal, estableció la igualdad de los cónyuges, legalizó el matrimonio civil y el divorcio consensuado; el aborto se despenalizó en 1986. Para las mujeres griegas, esa legislación cambió la vida más que cualquier otra cosa ocurrida en el siglo, y desmontó buena parte del régimen jurídico que sostenía la economía del honor descrita en la entrega 10. Se extendieron las pensiones al campesinado, se subieron los salarios reales, se amplió el acceso a la universidad.",
+        "Y todo eso se hizo, en lo esencial, mediante el Estado como empleador y como pagador. La incorporación de los sectores históricamente excluidos —los perdedores de la guerra civil, la provincia, el campesinado— se tramitó por la vía del empleo público, las regularizaciones de contratos, las pensiones anticipadas y las transferencias. Es la máquina de la entrega 16 funcionando a escala masiva y con una legitimidad democrática que antes no había tenido. La derecha, cuando volvió al poder, la operó igual.",
+        "El resultado fiscal era predecible: la deuda pública griega pasó de niveles moderados a comienzos de los ochenta a superar el cien por ciento del producto a mediados de los noventa. Y el resultado político fue una despolitización profunda de la relación con el Estado: no un ciudadano con derechos, sino un beneficiario con un contacto. En el Perú se llama vara; en Grecia, méson."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "Los fondos europeos: la periferia como receptora",
+      "paragraphs": [
+        "Desde 1981, y sobre todo desde los Marcos Comunitarios de Apoyo de 1989 y 1994, Grecia recibió transferencias europeas cuantiosas y sostenidas: fondos estructurales, de cohesión y agrícolas, que en algunos años equivalieron a varios puntos del producto anual. Con eso se construyeron autopistas, aeropuertos, el metro de Atenas, puentes —el de Río-Antirio, inaugurado en 2004—, y se modernizó buena parte de la infraestructura del país.",
+        "La lectura de esos fondos exige precisión y evita dos errores frecuentes. No fueron caridad: la política de cohesión existe porque un mercado único con monedas y productividades muy distintas produce divergencia, y las transferencias son el mecanismo de compensación que hace políticamente sostenible la integración. Tampoco fueron neutrales: gran parte del gasto se orientó a infraestructura física antes que a capacidades productivas, educación técnica o innovación, en parte porque la infraestructura es más fácil de licitar, de inaugurar y de convertir en clientela. Grecia terminó los años noventa con excelentes carreteras y una estructura productiva prácticamente igual de dependiente que al empezar: turismo, transporte marítimo, agricultura, un sector público grande y muy poca industria exportadora.",
+        "La comparación peruana es directa y vale para el debate sobre el canon minero y las regalías. Un flujo de recursos que llega a un territorio sin transformar su matriz productiva construye obra visible y no crea capacidad. Los municipios peruanos con canon abundante y con obras inauguradas junto a indicadores sociales estancados replican, a otra escala, exactamente el problema griego de los años noventa. En ambos casos el problema no es la corrupción —que existe— sino algo más difícil: la infraestructura es una condición necesaria y no suficiente del desarrollo, y es mucho más fácil de gastar que las capacidades."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "2001: entrar al euro y la contabilidad como política",
+      "paragraphs": [
+        "El objetivo estratégico de la política griega en los noventa fue el ingreso a la moneda única. Simitis, primer ministro desde 1996, condujo un programa de ajuste y estabilización que redujo la inflación de dos dígitos a niveles europeos. Grecia no cumplió los criterios en 1998 con los primeros once países, y entró el 1 de enero de 2001.",
+        "Entrar al euro tenía una lógica sólida para un país como Grecia: eliminaba el riesgo cambiario, importaba credibilidad monetaria alemana y reducía drásticamente el costo de la deuda. En 1993 el Estado griego pagaba tipos de interés muy superiores a los alemanes; a mediados de la década siguiente pagaba casi lo mismo. Un país con más del cien por ciento de deuda vio caer su carga de intereses de manera espectacular. Fue, en el corto plazo, un enorme éxito.",
+        "Y contenía tres bombas. La primera: los mercados dejaron de distinguir entre deuda griega y alemana, es decir, dejaron de fijar precio al riesgo, lo que permitió endeudarse barato a un Estado y a un sector privado que no habían resuelto ningún problema estructural. La segunda: al desaparecer la posibilidad de devaluar, la única vía de ajuste ante una pérdida de competitividad quedó siendo la DEVALUACIÓN INTERNA, es decir, la caída de salarios y precios, que es socialmente devastadora y políticamente casi imposible. La tercera: las cuentas públicas presentadas fueron, en parte, ficción. En 2004 el propio gobierno griego admitió que los datos de déficit habían sido subestimados sistemáticamente, y en 2009 la revisión reveló que el déficit real era del orden del doble o más de lo declarado. Se conoció también el uso de operaciones de permuta con bancos de inversión que permitían diferir deuda fuera del balance.",
+        "Conviene no reducir esto a una historia de tramposos griegos, porque es falsa por incompleta. La subestimación de déficits fue conocida y tolerada por las instituciones europeas, que tenían un objetivo político —la ampliación de la moneda única— superior al rigor estadístico; otros países practicaron contabilidad creativa; y el diseño de la unión monetaria carecía deliberadamente de mecanismos de supervisión bancaria común, de garantía de depósitos y de prestamista de última instancia soberano, es decir, de todo lo que una unión monetaria necesita para no romperse. Grecia mintió sobre sus cuentas y Europa construyó una moneda sin arquitectura. Ambas cosas produjeron 2010."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "Espejo peruano: los mismos años, otro ajuste",
+      "paragraphs": [
+        "Mientras Grecia hacía su convergencia europea, el Perú hacía su propio ajuste con instrumentos comparables y resultados políticos opuestos.",
+        "El país llegaba de la hiperinflación de 1988–1990 —con una inflación acumulada difícil de expresar en cifras comprensibles—, del colapso del Estado y de la guerra. El programa de estabilización de 1990, la apertura comercial, las privatizaciones masivas de 1991–1997, la nueva constitución de 1993 con su régimen económico y sus contratos de estabilidad, y la reinserción en el sistema financiero internacional produjeron estabilidad macroeconómica genuina y duradera: el Perú tiene desde entonces una de las inflaciones más bajas y una de las deudas públicas más manejables de la región.",
+        "La diferencia decisiva es política. Grecia hizo su ajuste dentro de un marco democrático y con un objetivo de integración que ampliaba derechos; el Perú lo hizo con un autogolpe en abril de 1992, un régimen que desmontó controles institucionales, y un aparato de corrupción y de manipulación mediática cuya magnitud solo se conoció con los vladivideos en 2000. El resultado es que en el Perú la estabilidad macroeconómica quedó asociada en la memoria colectiva a un régimen autoritario, y el debate económico posterior quedó atrapado en esa asociación durante treinta años: defender la disciplina fiscal se lee como defender el fujimorismo, y criticarla como amenazar la estabilidad. Grecia no cargó con esa fusión, y por eso pudo discutir su modelo económico en los años 2010 en términos propiamente políticos.",
+        "La observación general: importa quién hace el ajuste y bajo qué régimen, porque eso determina qué se podrá discutir durante la generación siguiente."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Resonancias 2024–2026",
+      "paragraphs": [
+        "Dos herencias vivas. La primera: la arquitectura del euro se corrigió parcialmente después de 2012 —unión bancaria, mecanismo europeo de estabilidad, el compromiso del Banco Central Europeo de hacer lo necesario, y desde 2020 el fondo de recuperación con emisión de deuda común, que rompió un tabú fundacional—. Es decir, la unión monetaria adquirió tarde y a golpes parte de las instituciones que le faltaban. Grecia pagó buena parte del costo de ese aprendizaje.",
+        "La segunda: los fondos europeos siguen siendo el principal instrumento de inversión pública griega, ahora vía el plan de recuperación posterior a la pandemia, y el debate sobre su absorción y su calidad de gasto se reeditó en 2024–2026 con los mismos términos de los años noventa. Nada envejece menos que una discusión sobre capacidad de ejecución.",
+        "Y una advertencia de método antes de la próxima entrega. Sobre la crisis griega existen dos relatos completos y mutuamente excluyentes: el del país que vivió por encima de sus posibilidades y fue rescatado, y el del país sacrificado para salvar a los bancos franceses y alemanes expuestos a su deuda. Ambos contienen hechos verdaderos y ambos omiten deliberadamente lo que no les conviene. La próxima entrega intentará sostener las dos series de hechos a la vez, que es lo único que permite entender por qué la crisis fue tan destructiva y por qué ninguna de las dos narrativas produjo una salida."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Coda para el viaje: qué mirar",
+      "paragraphs": [
+        "En Atenas, el metro. Fue construido en los años noventa con financiación europea y es excelente: limpio, puntual, y con vitrinas arqueológicas en varias estaciones —Sintagma, Monastiraki, Acrópolis— que exhiben lo hallado durante la excavación. Es un buen símbolo del período: infraestructura europea que al excavar tropieza con la Antigüedad y la incorpora al trayecto cotidiano. Fíjate en cómo se presenta.",
+        "Fíjate también en el aeropuerto Eleftherios Venizelos, inaugurado en 2001, y en las autopistas: son de este período. Y contrástalo con el estado de escuelas y hospitales públicos si tienes ocasión de verlos. Esa asimetría entre infraestructura de transporte de primer nivel y servicios sociales tensionados es el retrato del modelo.",
+        "En Corfú, pregunta por los fondos europeos: el aeropuerto, el puerto de cruceros, las carreteras. Y pregunta quién los gestiona y a quién beneficiaron. En una isla que vive del turismo, la infraestructura financiada con fondos de cohesión aumenta la capacidad de recibir visitantes, es decir, profundiza la especialización en lugar de diversificarla. Es el mismo debate del canon: la inversión pública puede reforzar la dependencia que pretendía compensar.",
+        "La próxima entrega es la central del bloque: 2008–2015. La revelación del déficit, el primer memorando, la troika, la caída del producto, el referéndum de julio de 2015 y su reversión en una semana."
+      ]
+    }
+  ],
+  "_file": "Entrega_25_La_convergencia_contable.docx"
+}

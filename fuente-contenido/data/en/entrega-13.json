@@ -1,0 +1,110 @@
+{
+  "numero": 13,
+  "bloque_num": "II",
+  "bloque_nombre": "OTTOMAN WORLD AND RENAISSANCE",
+  "dias": "9–14",
+  "titulo": "Inventing an Ancestor",
+  "subtitulo": "The neo-Greek Enlightenment, the language war, and the cost of having to resemble what others expect (1770 – 1821, and after)",
+  "fecha_emision": "August 16, 2026",
+  "viaje": "Athens – Corfu – Paxos · departure September 11, 2026",
+  "destinataria": "Daniela Martuccelli — sociologist",
+  "registro": "analytical essay · 13 of 30",
+  "glosario": [
+    "AUTHENTICITY",
+    "LANGUAGE QUESTION",
+    "DIMOTIKI",
+    "KATHAREVOUSA",
+    "MECHANISM OF SOCIAL CLOSURE",
+    "PEDAGOGICAL PROJECT",
+    "ROMIÓS",
+    "TURKS"
+  ],
+  "coda": {
+    "heading": "Coda for the journey: what to look for",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "First, listen to the language. You won't understand the content, but you can pick up on register: the difference between how an official or a news anchor speaks and how the person serving you coffee speaks is still perceptible, even though formal diglossia ended fifty years ago. And notice the bilingual Greek-English signs: what gets translated, what doesn't, and whom public space is written for."
+      },
+      {
+        "label": "",
+        "text": "Second, in Athens, the University, the Academy, and the National Library on Panepistimiou Street — the so-called neoclassical trilogy, by Danish and German architects, built between 1839 and 1902. This is the neo-Greek Enlightenment in stone: Greek temples built in the nineteenth century by Scandinavians to house institutions that would teach Greeks how to be Greek. Facing the Academy, the columns with Athena and Apollo; on the University's staircase, frescoes of Pericles. A country constructing the set design of its own lineage. Compare it with the Neo-Inca and neo-colonial styles of twentieth-century official Peruvian architecture, which does exactly the same thing with different reference points."
+      },
+      {
+        "label": "",
+        "text": "Third, in Corfu, the Ionian Academy and the memory of Dionysios Solomos, who lived on the island and wrote the Hymn to Liberty there. Solomos was a Zakynthian nobleman educated in Italy who had to learn to write poetry in the language of his own people, and his work remained full of unfinished fragments, in part because of that difficulty. The Greek national poet struggling to write in Greek is the best possible image of the problem this entrega describes."
+      }
+    ],
+    "closing": [],
+    "next_hint": "The next entrega closes Block II with the figure who made 1821 possible without meaning to: Ali Pasha of Ioannina, the warlord who ruled Epirus as a state of his own facing Corfu, negotiated as an equal with Napoleon and with the British, and whose destruction by the sultan left the empire without troops to spare just as the revolution broke out."
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "The practical problem of Greek nationalism",
+      "paragraphs": [
+        "Around 1780, an Orthodox peasant in the Peloponnese asked about his identity would have answered that he was a Christian, or ROMIÓS, or from his village. He would not have said \"Greek\" in the national sense, would not have recognized Pericles as an ancestor, and the word \"Hellene\" would have sounded pagan to him. That is the real starting point, not the supposed never-extinguished flame of Hellenic liberty.",
+        "Greek nationalism thus faced a concrete task: to persuade a population that defined itself by religion that it should define itself by ethnicity and language, and that its true lineage was not the Christian empire of Constantinople but fifth-century-BC Athens, of which it retained no memory at all. It was not an awakening. It was a deliberate PEDAGOGICAL PROJECT, carried out by a literate diaspora minority upon a population that had mostly never asked for it.",
+        "It is worth saying without cynicism: all nationalisms work this way, and the Greek one is no more artificial than the French, the Italian, or the Peruvian. Massimo d'Azeglio said after Italian unification that, having made Italy, it remained to make Italians. The observation applies equally to the Peru of 1821, where most of the population did not speak Spanish and independence was for a long time a matter for the coastal elites. What matters is not to denounce the construction, but to examine who carried it out, with what materials, against whom, and what was left out."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "Two incompatible projects: Rigas and Korais",
+      "paragraphs": [
+        "The neo-Greek Enlightenment produced two programs that are often presented as complementary and that in fact exclude one another.",
+        "Rigas Velestinlis, known as Feraios, born around 1757 in Thessaly, probably of Vlach family, secretary to Phanariots, settled in Vienna, wrote around 1797 a battle hymn — the Thourios — and a draft constitution for a republic. And the republic he imagined was not Greek in an ethnic sense: it covered all the Ottoman Empire's territories in Europe and Anatolia, and granted citizenship to Greeks, Bulgarians, Albanians, Vlachs, Armenians, Jews, AND TURKS, with Greek as the common language of administration and equality before the law, including provisions on the education of women. It is a Jacobin republican project, multiethnic and Balkan-wide. The Austrians stopped him in Trieste in 1797, handed him over to the Ottomans, and he was strangled in Belgrade in June 1798.",
+        "Adamantios Korais, born in Smyrna in 1748, a physician trained in Montpellier, resident in Paris during the Revolution and until his death in 1833, proposed something else. His program was the regeneration of the nation through classical education: he edited a Hellenic Library of ancient authors, held that modern Greeks should reconnect with their ancestors through the texts, was deeply suspicious of the Orthodox Church as an agent of obscurantism and Ottoman collaboration, and proposed a linguistic middle way — purging spoken Greek of its foreign borrowings and bringing it closer to the ancient language — that would found KATHAREVOUSA.",
+        "The difference between the two is of an importance that is not stressed enough. Rigas proposes a political community defined by citizenship shared within a territory; Korais, a cultural community defined by descent and language. Korais won. And the victory of that conception — the nation as ethnic-linguistic lineage — leads in a straight line to what would happen a century later: the Balkan Wars, the Asia Minor Catastrophe of 1922, and the population exchange of 1923. If the nation is a lineage, mixed populations are a problem to be solved. If it is a citizenship, they are not. The road not taken in 1797 carries a ledgered cost in the twentieth century, and we will see it in Block IV."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "The Church strikes back: Ottoman order as divine will",
+      "paragraphs": [
+        "In 1798 a text titled Paternal Teaching appeared in Istanbul, attributed to Patriarch Anthimos of Jerusalem and published with the backing of the Ecumenical Patriarchate, whose argument is worth quoting because of its remarkable candor: God had raised up the Ottoman Empire precisely to protect Orthodoxy from Western heresies and from the corruption of modern liberty; political submission is therefore a religious duty, and the ideas of liberty imported from France are a trap set by the devil. Korais responded the following year with a furious Fraternal Teaching.",
+        "In other words: before the revolution there was an open ideological war between the Orthodox hierarchy and the enlightened intelligentsia of the diaspora, and the hierarchy explicitly defended the imperial order. This is no anecdote: it explains the excommunication of the revolutionaries by Patriarch Gregory V in 1821 — which we saw in entrega 11 — and it also explains why the independent Greek state unilaterally broke with the Ecumenical Patriarchate and proclaimed an autocephalous church in 1833, grudgingly recognized in 1850. The Greek national church is a creation of the national state, made against the very institution that had preserved identity for four centuries.",
+        "The Peruvian parallel is once again direct: the colonial high clergy was mostly royalist, independence had tense relations with the Holy See, and the construction of republican patronage was a process of nationalizing the Church. In both cases, the institution that had guarded identity under foreign rule became an obstacle to the national project, and was subordinated, not eliminated. That negotiated subordination is the origin of the hybrid status both churches retain today."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "The language war, or inequality turned into grammar",
+      "paragraphs": [
+        "No Greek political dispute of the nineteenth and twentieth centuries was as persistent as the LANGUAGE QUESTION. On one side, katharevousa, \"purified\" Greek, artificially archaizing, the language of the state, the courts, the university, the serious press, and the army. On the other, DIMOTIKI, the language actually spoken, with its simplified morphology and its Turkish, Italian, and Slavic borrowings, considered vulgar by the elite and defended by demoticists as the only living language.",
+        "The dispute produced deaths. In November 1901, the publication of a translation of the Gospels into the spoken language in an Athenian newspaper set off the riots known as the Evangeliká: university students and clergy in the streets, clashes with the army, eight dead, the fall of the government, and the resignation of the archbishop. Two years later, a performance of the Oresteia in modern language provoked another riot with casualties. People died over the translation of a text into their own language.",
+        "The sociological reading is textbook Bourdieu, and no less accurate for that. Diglossia was not an aesthetic debate: it was a MECHANISM OF SOCIAL CLOSURE. Mastering katharevousa required prolonged schooling, that is, family economic capital. And because civil-service entrance exams, legal texts, court records, and medical diagnoses were all written in katharevousa, whoever did not master it was excluded from the state and left dependent on intermediaries who did. The lawyer, the schoolteacher, and the notary made their living translating the country to its own population. The official language functioned as a toll. Only in 1976, after the fall of the dictatorship, was dimotiki declared the official language of the state and of education.",
+        "The Peruvian mirror is so precise it barely needs stating. Formal, legal, and school Spanish performed and still performs exactly that function toward Quechua, Aymara, and the Amazonian languages, and toward the Andean Spanish of bilingual speakers themselves. Quechua has been an official language wherever it predominates since the 1979 constitution, and in practice the state still operates in a register that excludes. That in 2021 a congresswoman was publicly mocked for her Andean Spanish, or that a minister was criticized for speaking Quechua in Congress, are not incidents of bad manners: they are the border reasserting itself. In Greece that border was partially dismantled in 1976 by political decision. In Peru it has not been dismantled, among other reasons because there the line coincides with the ethnic division, and in Greece it coincided with none: everyone was Greek, the difference was one of class. That difference matters, and it makes the Peruvian case harder."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Philhellenism: the obligation to resemble the ancestor",
+      "paragraphs": [
+        "Between 1821 and 1830, hundreds of Europeans and a number of Americans traveled to fight for Greece, and tens of thousands financed philhellenic committees in London, Paris, Geneva, and Boston. Byron died of fever at Missolonghi in April 1824, and his death did more for the Greek cause than any battle. Delacroix painted the Massacre at Chios in 1824 and Greece Expiring on the Ruins of Missolonghi in 1826. European public opinion forced reluctant governments to intervene.",
+        "Philhellenism, however, was not love for the Greeks: it was love for the ancient Greeks, and the expectation of finding their descendants. The volunteers who arrived ran into shepherds, bandits, corrupt notables, illiterate priests, and military chiefs fighting among themselves, and many went home embittered, writing memoirs denouncing modern Greeks as unworthy of their past. Fallmerayer's thesis, which we examined in entrega 6, arises in part from that disappointment.",
+        "There is a mechanism here that will feel professionally familiar to you: the demand for AUTHENTICITY imposed from outside. A people is admired for a constructed image, made to answer to it, and reproached for its actual reality. It is exactly the structure of the gaze cast on the Andean world: the textile, the ritual, and reciprocity are celebrated, and the peasant who wears synthetic clothing, migrates to the city, negotiates with a mining company, or votes for an unexpected candidate is disqualified. The authentic indigenous person is the one who resembles the photograph. Anthropology spent a good part of the twentieth century building that expectation and the last few decades dismantling it.",
+        "Greece lives off that demand to this day, and has professionalized it. A large part of the tourist economy consists of producing the scene the visitor expects. Do not look down on it when you see it: observe it for what it is, an industry of someone else's expectation, identical to the one that operates in Cusco, with the same mixture of calculation, genuine hospitality, and fatigue."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "The simultaneous world and resonances 2024–2026",
+      "paragraphs": [
+        "The neo-Greek Enlightenment is contemporary with the invention of national philologies across Europe: Herder and the German Romantics collecting folk songs as the voice of the people, the Brothers Grimm publishing tales in 1812, the construction of literary Serbian by Vuk Karadžić in the same years. All of Europe was inventing ancestors at the same time, and the German model — nation as a community of language and descent — prevailed over the French one — nation as a community of citizens. Rigas's defeat by Korais is a local episode of that general defeat.",
+        "As for the present, two observations. First: the victory of the spoken language in 1976 is one of the few clear cases of successful linguistic democratization in Europe, and it deserves to be known in Peru, where the discussion of intercultural bilingual education is usually framed as a cultural concession rather than as what it is, a condition of access to the state. Second: the dispute over authenticity remains alive in the Greece of 2024–2026 in the form of the debate over overtourism, short-term rentals, and the conversion of entire neighborhoods into stage sets. In 2025 several Greek cities and municipalities were debating restrictions on new short-term rental registrations and disembarkation fees for cruise ships. It is Korais's same question in different vocabulary: who decides what Greece is, and for whom."
+      ]
+    },
+    {
+      "num": "VII",
+      "heading": "Coda for the journey: what to look for",
+      "paragraphs": [
+        "First, listen to the language. You won't understand the content, but you can pick up on register: the difference between how an official or a news anchor speaks and how the person serving you coffee speaks is still perceptible, even though formal diglossia ended fifty years ago. And notice the bilingual Greek-English signs: what gets translated, what doesn't, and whom public space is written for.",
+        "Second, in Athens, the University, the Academy, and the National Library on Panepistimiou Street — the so-called neoclassical trilogy, by Danish and German architects, built between 1839 and 1902. This is the neo-Greek Enlightenment in stone: Greek temples built in the nineteenth century by Scandinavians to house institutions that would teach Greeks how to be Greek. Facing the Academy, the columns with Athena and Apollo; on the University's staircase, frescoes of Pericles. A country constructing the set design of its own lineage. Compare it with the Neo-Inca and neo-colonial styles of twentieth-century official Peruvian architecture, which does exactly the same thing with different reference points.",
+        "Third, in Corfu, the Ionian Academy and the memory of Dionysios Solomos, who lived on the island and wrote the Hymn to Liberty there. Solomos was a Zakynthian nobleman educated in Italy who had to learn to write poetry in the language of his own people, and his work remained full of unfinished fragments, in part because of that difficulty. The Greek national poet struggling to write in Greek is the best possible image of the problem this entrega describes.",
+        "The next entrega closes Block II with the figure who made 1821 possible without meaning to: Ali Pasha of Ioannina, the warlord who ruled Epirus as a state of his own facing Corfu, negotiated as an equal with Napoleon and with the British, and whose destruction by the sultan left the empire without troops to spare just as the revolution broke out."
+      ]
+    }
+  ]
+}

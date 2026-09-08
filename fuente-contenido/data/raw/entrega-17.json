@@ -1,0 +1,109 @@
+{
+  "numero": 17,
+  "bloque_num": "III",
+  "bloque_nombre": "INDEPENDENCIA Y SIGLO XIX",
+  "dias": "15–17",
+  "titulo": "Lamentablemente, estamos en quiebra",
+  "subtitulo": "Pasas, ferrocarriles y el primer memorando: la Comisión Financiera Internacional de 1898 (1864 – 1900)",
+  "fecha_emision": "16 de agosto de 2026",
+  "viaje": "Atenas – Corfú – Paxos · salida 11 de septiembre de 2026",
+  "destinataria": "Daniela Martuccelli — socióloga",
+  "registro": "ensayo analítico · 17 de 30",
+  "glosario": [
+    "COMISIÓN FINANCIERA INTERNACIONAL",
+    "CONTRATO GRACE",
+    "DESTRUYEN LA AGRICULTURA DE",
+    "DISEÑADOS PARA PRODUCIR",
+    "MIDEN LO QUE FUERON",
+    "PASA DE CORINTO",
+    "SUBSISTENCIA QUE LOS PRECEDÍA"
+  ],
+  "coda": {
+    "heading": "Cierre del bloque III y coda para el viaje",
+    "intro": [
+      "Recapitulo las tres entregas. Grecia nació en 1832 con fronteras dibujadas por otros, dos tercios de su nación fuera, un rey importado y una deuda anterior a su existencia (15). Construyó un Estado a la europea sobre una sociedad que no lo era, con la capital elegida por su nombre antiguo y el empleo público convertido en el principal bien político del país, y adoptó como programa nacional una expansión que su economía no podía sostener (16). Y financió esa contradicción con deuda externa apoyada en una monocultura de exportación, hasta la quiebra de 1893, la derrota de 1897 y la administración extranjera de sus ingresos desde 1898 (17). Con esa herencia entra al siglo XX, que es el bloque IV y el más violento de todos."
+    ],
+    "items": [
+      {
+        "label": "",
+        "text": "Para el viaje, dos observaciones. En Atenas, el Estadio Panatenaico y, si te interesa la historia económica, el edificio del Banco Nacional de Grecia en la calle Eolou y la zona bancaria del centro decimonónico: es el paisaje construido del ciclo de crédito que acabas de leer. Y fíjate, caminando por Atenas, en la cantidad de locales cerrados y edificios vacíos que persisten en zonas del centro: es sedimento de la crisis de 2010, todavía visible pese a la recuperación turística, y contrasta violentamente con las zonas remodeladas."
+      },
+      {
+        "label": "",
+        "text": "En Corfú, el rastro de este período es la emigración. Las Jónicas también perdieron población hacia América y hacia Australia entre 1890 y 1920, y hay familias corfiotas con parientes en Melbourne desde entonces. Pregunta por eso: la diáspora reciente —Alemania y Reino Unido en los años sesenta, y otra vez después de 2010— es un tema del que la gente habla con facilidad, y te dará acceso directo a cómo se experimenta la dependencia económica en una isla que vive del verano."
+      }
+    ],
+    "closing": [],
+    "next_hint": "La próxima entrega abre el bloque IV con el período que va de 1897 a 1922: Venizelos, las guerras balcánicas que duplican el país, y el Cisma Nacional que partió a Grecia en dos Estados con dos ejércitos y dejó una fractura que duraría sesenta años. Y, para tu itinerario, un dato que probablemente no esperas: Yugoslavia se fundó en Corfú."
+  },
+  "resonancias": {
+    "num": "V",
+    "heading": "Resonancias 2024–2026: la métrica del éxito",
+    "paragraphs": [
+      "Grecia salió del tercer programa de rescate en 2018 y recuperó la calificación de grado de inversión en 2023, tras trece años fuera de ella. Su deuda pública sigue siendo de las más altas de la Unión Europea en proporción al producto —por encima del ciento cincuenta por ciento— pero con vencimientos largos, tipos bajos negociados y acceso normal a los mercados. En el vocabulario de los acreedores, Grecia es hoy un caso de éxito. En el vocabulario de la población, la década produjo una caída del producto cercana a la cuarta parte, un desempleo juvenil que superó el cincuenta por ciento, recortes de pensiones acumulados de entre el veinte y el cuarenta por ciento, y la emigración de medio millón de personas jóvenes y formadas.",
+      "Ambas descripciones son verdaderas y esa simultaneidad es el punto. La Comisión Financiera Internacional de 1898 también fue un éxito según su propia métrica. El problema no es que los programas de ajuste fracasen: es que MIDEN LO QUE FUERON DISEÑADOS PARA PRODUCIR —capacidad de pago, acceso al crédito, estabilidad de precios— y no lo que la población experimenta. Cuando en el Perú se discute la solidez macroeconómica —baja deuda, reservas altas, inflación controlada, que son logros reales— junto a una pobreza que volvió a niveles de hace más de una década, informalidad superior al setenta por ciento y servicios públicos incapaces, se está teniendo exactamente la misma discusión: dos métricas verdaderas que describen dos países.",
+      "La pregunta que este bloque deja abierta, y que el bloque V retomará, es política y no técnica: quién elige la métrica. En 1898 la eligieron los acreedores mediante una comisión con sede en Atenas. En 2010 la eligieron mediante un memorando. En el Perú la eligen, en buena medida, los mercados de deuda y las calificadoras, con una tecnocracia interna que traduce. La continuidad de ciento veinticinco años es notable y merece nombrarse sin escándalo: es la forma normal en que las economías periféricas quedan integradas al sistema financiero internacional."
+    ]
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "Una monocultura creada por la desgracia ajena",
+      "paragraphs": [
+        "La economía griega del último tercio del siglo XIX se sostuvo sobre un solo producto: la PASA DE CORINTO, la uva pequeña sin semilla que se cultivaba en el Peloponeso occidental y las Jónicas. Llegó a representar, según el año, entre la mitad y dos tercios del valor de las exportaciones del país.",
+        "El origen del auge es tan instructivo como su final. Desde la década de 1860, la filoxera —un insecto llegado de América— devastó los viñedos franceses, y Francia, incapaz de producir vino suficiente, empezó a importar pasa griega en cantidades enormes para elaborar con ella un vino de segunda. Es decir: la prosperidad griega fue el producto directo de una catástrofe agrícola francesa. Miles de campesinos peloponesios arrancaron olivos y cereales para plantar viña de pasa; se endeudaron para hacerlo; el precio de la tierra se disparó.",
+        "Y entonces Francia replantó sus viñedos con cepas americanas resistentes y, en 1892, cerró su mercado con aranceles. El precio de la pasa se derrumbó. Regiones enteras quedaron arruinadas y endeudadas, con tierras dedicadas a un cultivo sin comprador. La emigración masiva a Estados Unidos que caracterizó a Grecia entre 1890 y 1920 —cientos de miles de personas, en su mayoría varones jóvenes del Peloponeso— arranca exactamente ahí.",
+        "Ninguna socióloga peruana necesita que se le explique esta estructura. Es el guano entre 1840 y 1879, es el caucho entre 1880 y 1912 —hundido cuando las semillas contrabandeadas a Malasia empezaron a producir—, es el algodón, es la harina de pescado, es cada ciclo en que un precio externo reorganiza el territorio y una decisión tomada en otra parte lo desorganiza. La lección específica que la pasa añade al catálogo es esta: los auges monoexportadores no solo son frágiles, sino que DESTRUYEN LA AGRICULTURA DE SUBSISTENCIA QUE LOS PRECEDÍA, de modo que cuando el ciclo termina la población no puede volver atrás. La única salida es emigrar. Grecia lo hizo a Estados Unidos en 1900; el Perú lo hizo hacia Lima en el siglo XX."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "Modernizar a crédito: Trikoupis",
+      "paragraphs": [
+        "Charilaos Trikoupis, primer ministro en siete ocasiones entre 1875 y 1895, fue el gran modernizador griego del siglo XIX y merece un juicio matizado. Impuso el principio parlamentario de que el rey debía nombrar gobierno con mayoría en la cámara. Construyó infraestructura: la red ferroviaria pasó de unos pocos kilómetros a más de mil; se abrió el canal de Corinto en 1893, se hicieron carreteras, puertos, drenajes; se profesionalizó el ejército y la administración.",
+        "Todo ello se financió con empréstitos externos colocados en Londres y París a tipos efectivos muy superiores a los nominales, por el descuento de emisión. Hacia 1890, el servicio de la deuda absorbía en torno a la tercera parte del gasto público, y buena parte de los nuevos préstamos servía para pagar los anteriores. Cuando el mercado de la pasa colapsó y con él los ingresos por exportación y aduanas, el esquema se vino abajo.",
+        "El 10 de diciembre de 1893, Trikoupis se presentó ante el Parlamento y pronunció la frase más citada de la historia económica griega: «Δυστυχώς, επτωχεύσαμεν» —«lamentablemente, estamos en quiebra»—. Grecia suspendió pagos.",
+        "Vale la pena resistir dos lecturas fáciles. La primera, que Trikoupis fue un derrochador irresponsable: la infraestructura que construyó era necesaria y la alternativa —no construir— habría dejado al país sin Estado ni economía integrada. La segunda, que fue víctima inocente: aceptó condiciones de endeudamiento que solo eran sostenibles si el ciclo de la pasa duraba indefinidamente, y ningún ciclo dura indefinidamente. El dilema real —modernizar a crédito con ingresos volátiles, o no modernizar— es el mismo que enfrentó el Perú del guano con el contrato Dreyfus de 1869 y los ferrocarriles de Meiggs, y es el mismo que enfrenta cualquier país que financia inversión de largo plazo con renta de materias primas de corto plazo. No tiene solución elegante; tiene solo grados de prudencia."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "1897 y 1898: la derrota y el primer memorando",
+      "paragraphs": [
+        "Cuatro años después de la quiebra, en 1897, Grecia entró en guerra con el Imperio otomano por Creta, empujada por la presión irredentista interna que la Megali Idea había institucionalizado. La llamada Guerra de los Treinta Días fue un desastre militar completo: el ejército otomano, reformado por instructores alemanes, avanzó por Tesalia sin encontrar resistencia efectiva. Solo la intervención de las potencias impidió el colapso total. Grecia perdió territorio, aceptó una indemnización de guerra y quedó humillada.",
+        "La combinación de bancarrota e indemnización produjo el instrumento que cierra este bloque. En 1898, las potencias impusieron la COMISIÓN FINANCIERA INTERNACIONAL: un organismo con sede en Atenas, integrado por representantes de los Estados acreedores, que tomó bajo su control directo la recaudación de rentas públicas griegas específicas —los monopolios estatales de la sal, el petróleo, los fósforos, los naipes y el papel de fumar; las aduanas del Pireo; los impuestos del timbre— y las aplicó al servicio de la deuda antes de que un dracma llegara al Tesoro griego.",
+        "Es exactamente lo que en 2010 se llamaría un memorando, con la diferencia de que era más explícito: no había condicionalidad sujeta a revisiones, había directamente administración extranjera de ingresos fiscales. La Comisión funcionó durante décadas, hasta la Segunda Guerra Mundial. Y funcionó, en el sentido en que sus diseñadores entendían el éxito: Grecia recuperó acceso al crédito internacional, su moneda se estabilizó, los tenedores de bonos cobraron. Lo que no hizo fue alterar la estructura productiva que había causado la crisis.",
+        "El equivalente peruano ocurrió nueve años antes y fue todavía más directo. Tras la bancarrota de 1876 y la derrota en la Guerra del Pacífico, el CONTRATO GRACE de 1889 entregó a los tenedores de bonos británicos, agrupados en la Peruvian Corporation, la administración de los ferrocarriles del Estado por sesenta y seis años, cantidades de guano, tierras en la selva, la navegación del Titicaca y una anualidad, a cambio de la cancelación de la deuda externa. Un país cedió su infraestructura estratégica a sus acreedores durante dos tercios de siglo. La discusión peruana sobre si el contrato Grace fue una entrega o una salida necesaria es, punto por punto, la discusión griega sobre la Comisión Financiera Internacional y, cien años después, sobre los memorandos."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "Los Juegos de 1896: prestigio pagado por la diáspora",
+      "paragraphs": [
+        "Hay un episodio que condensa todo el período con una ironía perfecta. En abril de 1896, tres años después de declararse en quiebra, Grecia organizó los primeros Juegos Olímpicos modernos. El Estado no tenía dinero; el Estadio Panatenaico fue reconstruido en mármol pentélico con la donación de Georgios Averoff, un comerciante griego enriquecido en Alejandría, es decir un miembro de esa burguesía diaspórica de la entrega 12. Otros gastos se cubrieron con una emisión de sellos conmemorativos y donaciones privadas.",
+        "Un Estado en suspensión de pagos organizando un acontecimiento internacional de prestigio con dinero de emigrados ricos, para escenificar ante Europa su condición de heredero legítimo de la Antigüedad. Es el mecanismo completo de este plan de formación en un solo evento: la Antigüedad como recurso, la diáspora como financista, el prestigio como sustituto de la capacidad, y la deuda debajo de todo. Cuando visites el Kallimarmaro —y está a diez minutos del Arco de Adriano, se puede rodear sin entrar— ten presente que ese mármol se pagó con fortuna hecha en Egipto por un griego que no vivía en Grecia, mientras la Comisión Financiera Internacional se preparaba para administrar los impuestos del país.",
+        "El paralelo peruano más próximo no es olímpico sino expositivo: los pabellones y participaciones peruanas en las exposiciones universales del XIX, financiadas en plena crisis para exhibir modernidad ante Europa. Y, más cerca, cualquier megaevento contemporáneo organizado por países que simultáneamente recortan gasto social. La escenificación del estatus es una política de Estado, no un lujo accesorio, porque el estatus determina el costo del crédito."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Resonancias 2024–2026: la métrica del éxito",
+      "paragraphs": [
+        "Grecia salió del tercer programa de rescate en 2018 y recuperó la calificación de grado de inversión en 2023, tras trece años fuera de ella. Su deuda pública sigue siendo de las más altas de la Unión Europea en proporción al producto —por encima del ciento cincuenta por ciento— pero con vencimientos largos, tipos bajos negociados y acceso normal a los mercados. En el vocabulario de los acreedores, Grecia es hoy un caso de éxito. En el vocabulario de la población, la década produjo una caída del producto cercana a la cuarta parte, un desempleo juvenil que superó el cincuenta por ciento, recortes de pensiones acumulados de entre el veinte y el cuarenta por ciento, y la emigración de medio millón de personas jóvenes y formadas.",
+        "Ambas descripciones son verdaderas y esa simultaneidad es el punto. La Comisión Financiera Internacional de 1898 también fue un éxito según su propia métrica. El problema no es que los programas de ajuste fracasen: es que MIDEN LO QUE FUERON DISEÑADOS PARA PRODUCIR —capacidad de pago, acceso al crédito, estabilidad de precios— y no lo que la población experimenta. Cuando en el Perú se discute la solidez macroeconómica —baja deuda, reservas altas, inflación controlada, que son logros reales— junto a una pobreza que volvió a niveles de hace más de una década, informalidad superior al setenta por ciento y servicios públicos incapaces, se está teniendo exactamente la misma discusión: dos métricas verdaderas que describen dos países.",
+        "La pregunta que este bloque deja abierta, y que el bloque V retomará, es política y no técnica: quién elige la métrica. En 1898 la eligieron los acreedores mediante una comisión con sede en Atenas. En 2010 la eligieron mediante un memorando. En el Perú la eligen, en buena medida, los mercados de deuda y las calificadoras, con una tecnocracia interna que traduce. La continuidad de ciento veinticinco años es notable y merece nombrarse sin escándalo: es la forma normal en que las economías periféricas quedan integradas al sistema financiero internacional."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Cierre del bloque III y coda para el viaje",
+      "paragraphs": [
+        "Recapitulo las tres entregas. Grecia nació en 1832 con fronteras dibujadas por otros, dos tercios de su nación fuera, un rey importado y una deuda anterior a su existencia (15). Construyó un Estado a la europea sobre una sociedad que no lo era, con la capital elegida por su nombre antiguo y el empleo público convertido en el principal bien político del país, y adoptó como programa nacional una expansión que su economía no podía sostener (16). Y financió esa contradicción con deuda externa apoyada en una monocultura de exportación, hasta la quiebra de 1893, la derrota de 1897 y la administración extranjera de sus ingresos desde 1898 (17). Con esa herencia entra al siglo XX, que es el bloque IV y el más violento de todos.",
+        "Para el viaje, dos observaciones. En Atenas, el Estadio Panatenaico y, si te interesa la historia económica, el edificio del Banco Nacional de Grecia en la calle Eolou y la zona bancaria del centro decimonónico: es el paisaje construido del ciclo de crédito que acabas de leer. Y fíjate, caminando por Atenas, en la cantidad de locales cerrados y edificios vacíos que persisten en zonas del centro: es sedimento de la crisis de 2010, todavía visible pese a la recuperación turística, y contrasta violentamente con las zonas remodeladas.",
+        "En Corfú, el rastro de este período es la emigración. Las Jónicas también perdieron población hacia América y hacia Australia entre 1890 y 1920, y hay familias corfiotas con parientes en Melbourne desde entonces. Pregunta por eso: la diáspora reciente —Alemania y Reino Unido en los años sesenta, y otra vez después de 2010— es un tema del que la gente habla con facilidad, y te dará acceso directo a cómo se experimenta la dependencia económica en una isla que vive del verano.",
+        "La próxima entrega abre el bloque IV con el período que va de 1897 a 1922: Venizelos, las guerras balcánicas que duplican el país, y el Cisma Nacional que partió a Grecia en dos Estados con dos ejércitos y dejó una fractura que duraría sesenta años. Y, para tu itinerario, un dato que probablemente no esperas: Yugoslavia se fundó en Corfú."
+      ]
+    }
+  ],
+  "_file": "Entrega_17_Lamentablemente_en_quiebra.docx"
+}

@@ -1,0 +1,101 @@
+{
+  "numero": 9,
+  "bloque_num": "II",
+  "bloque_nombre": "OTTOMAN WORLD AND RENAISSANCE",
+  "dias": "9–14",
+  "titulo": "The Sultan's Church",
+  "subtitulo": "The millet system, or how to govern by administering difference (1453 – 1600)",
+  "fecha_emision": "August 16, 2026",
+  "viaje": "Athens – Corfu – Paxos · departure September 11, 2026",
+  "destinataria": "Daniela Martuccelli — sociologist",
+  "registro": "analytical essay · 9 of 30",
+  "glosario": [
+    "HIERARCHICAL ACCOMMODATION",
+    "BERAT",
+    "MILLET",
+    "NOT LINGUISTIC OR ETHNIC",
+    "RELIGIOUS",
+    "REPUBLIC OF INDIANS",
+    "TOURKOKRATIA",
+    "SEVENTEENTH CENTURY",
+    "EIGHTEENTH CENTURY"
+  ],
+  "coda": {
+    "heading": "Coda for the journey: what to look at",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "In Athens, look for the Ottoman layer, which is there and almost entirely unmarked. The Tzistarakis Mosque, from 1759, in Monastiraki, today a museum annex. The Fethiye Mosque, from the seventeenth century, in the Roman Agora, built over a Christian basilica that itself stood over Roman structures. The remains of the medrese beside the Tower of the Winds. And the Bath of the Winds, the city's only surviving hammam, on Kyrristou Street. Notice the museographic treatment: few panels, little context, no narrative that integrates those four centuries into the story of the city. Compare it with the interpretive abundance devoted to the classical period. That asymmetry is the politics of memory in action, and it is exactly equivalent to the way many Peruvian museums treat the colonial period as a mere transit between Inca splendor and the republic."
+      },
+      {
+        "label": "",
+        "text": "In Corfu, the exercise runs the other way: look for the Ottoman layer, and you will not find it, because it is not there. There is no mosque, no hammam, no minaret. The island lived through those same four centuries under Venice. That absence is the most important datum of your trip, because it means Athens and Corfu do not share four of the last six centuries of history. When you hear people speak of \"the Greeks\" as a homogeneous subject, remember that you will be visiting two societies whose historical experience has diverged since 1386."
+      },
+      {
+        "label": "",
+        "text": "A listening exercise: ask about the word TOURKOKRATIA — \"Turkish rule\" — and observe how it is used. It is the official name for four centuries, and naming a period after its foreign ruler implies asserting that nothing of one's own happened during that time. In the next entry we dismantle exactly that: what really happened in those four centuries, how the population lived and organized itself, and why national historiography needed to turn them into an empty parenthesis."
+      }
+    ],
+    "closing": [],
+    "next_hint": null
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "It was not tolerance: it was a technique of government",
+      "paragraphs": [
+        "The Ottoman Empire governed tens of millions of Christians and Jews for centuries without converting or exterminating them, and that fact produces two equally lazy readings. The first, apologetic, presents the empire as a model of coexistence against European fanaticism. The second, nationalist, presents it as four centuries of undifferentiated yoke. Both avoid describing the mechanism, which is the only interesting part.",
+        "The mechanism is called MILLET: the organization of the population not by territory or language but by religious community, each with its own authority over family law, inheritance, education, and a share of tax collection. The millet-i Rûm — literally \"the Roman nation,\" the Ottoman name for the Orthodox, which preserves the Byzantine self-designation we saw in entry 6 — grouped Greeks, Bulgarians, Serbs, Romanians, Orthodox Albanians, and Orthodox Arabs under the civil authority of the Patriarch of Constantinople. A single interlocutor for millions of heterogeneous subjects.",
+        "This is not tolerance in the liberal sense, which presupposes equality of status. It is HIERARCHICAL ACCOMMODATION: non-Muslims were dhimmi, protected persons with limited rights, and the limitation was codified. They paid the poll tax — the cizye — from which Muslims were exempt; their testimony counted for less before an Islamic tribunal; there were restrictions on building height, bells, dress, riding horses, carrying weapons. In exchange they received protection, freedom of worship, and real internal autonomy. It is an asymmetric, explicit, and stable pact, and its great administrative advantage is low cost: the empire did not need a capillary bureaucracy because it delegated day-to-day government to the institutions of the dominated themselves.",
+        "Indirect rule is no Ottoman peculiarity. It is the standard technique of premodern empires with limited administrative resources, and the viceroyalty of Peru practiced it with the same logic: the REPUBLIC OF INDIANS and the republic of Spaniards as two separate legal orders, with the curaca as recognized intermediate authority, differentiated tribute, and the doctrinal clergy as administrators of indigenous daily life. Millet and the republic of Indians are, functionally, the same device: legally separate the subjugated population, grant it its own institutions, and use those institutions as the transmission belt for tribute and order."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "The price of privilege: a leased Church",
+      "paragraphs": [
+        "The Orthodox Church obtained under the sultan a civil authority it had never held under the Christian emperor. And it paid for it, literally. Patriarchal appointment required a BERAT, an imperial diploma, and with it a gift to the treasury, the peşkeş. Throughout the sixteenth century and above all the seventeenth, competition among factions turned that gift into an auction: whoever offered more took the patriarchal throne, and whoever offered more afterward displaced the previous occupant. The result was a dizzying instability — dozens of patriarchal changes in the seventeenth century, with figures like Cyril Lucaris occupying the office five times and dying strangled in 1638 — and a chain of simony that descended through the whole hierarchy: the patriarch charged the metropolitans, they charged the bishops, the bishops charged the parish clergy, and the parish clergy charged the peasant, for baptisms, weddings, and burials.",
+        "Here lies the structural ambivalence that defines the whole period and that no nationalist narrative can digest. The Orthodox Church was, in fact, the institution that preserved the language, memory, and cohesion of the Greek population for four centuries: without it there would have been no nation to awaken in 1821. And it was simultaneously a fiscal-extraction apparatus integrated into the Ottoman state, with a material interest in the permanence of the order it administered. Both things are true at once, and that simultaneity — preserving and extracting — is exactly what makes the relationship of postcolonial societies with their intermediary institutions so hard to resolve.",
+        "The Andean version is recognizable point by point. Indian doctrine preserved languages — the catechisms and sermon collections in Quechua and Aymara from the Third Council of Lima, in 1584, were the first books printed in South America — and produced the framework within which pre-Hispanic ritual forms survived under Christian invocations. And at the same time, the doctrinal clergy collected fees, took part in the repartos, and were among the most denounced agents of extraction in the indigenous petitions of the seventeenth and eighteenth centuries. The cofradía preserved Andean reciprocity and financed the priest. There is no contradiction: there is structure."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "Who converted, and why religion was nationality",
+      "paragraphs": [
+        "There was no mass forced conversion of the Greek population, and the fact matters because it dismantles the simplest version of the national narrative. There was, instead, conversion of convenience: passing to Islam exempted one from the cizye, opened access to office, improved one's standing before the courts. Entire populations converted in specific regions — the Vallahades of western Macedonia, Greek-speaking Muslims; a large part of Crete after 1669; Albanian and Bosnian communities. And there were crypto-Christians: the Cretan linovamvaki, the Pontic kromlides, families who practiced Islam in public and Christianity in private for generations.",
+        "The conceptual consequence is decisive and worth fixing now, because it will explain Block IV. Under the millet system, primary identity was RELIGIOUS, NOT LINGUISTIC OR ETHNIC. A Greek-speaking Cretan converted to Islam was not \"Greek\": he was Turkish, for administrative purposes and in collective self-perception. That is why, when the compulsory population exchange between Greece and Turkey takes place in 1923, the criterion will not be language but religion, and Muslims who spoke only Greek will be deported to Turkey while Christians who spoke only Turkish will be sent to Greece. A million and a half people displaced according to a premodern imperial category applied by modern national states. We will return to this.",
+        "The system's most singular mechanism was the DEVŞIRME, the levy of children: periodically, officials would travel through the Christian villages of the Balkans and select boys — the customary figure cited is one in every forty households —, who were converted to Islam, educated in Istanbul, and assigned to the janissary corps or to the palace administration. Cumulative estimates run to about two hundred thousand people over the three centuries the system was in force. It is, without ambiguity, a violence: forced separation, obligatory conversion, permanent loss of family. And it is also, without ambiguity, the most dizzying channel of social mobility available in the empire: many grand viziers came out of the devşirme, and there are documented cases of families seeking to have a son taken into the levy. Sokollu Mehmed Pasha, grand vizier for fifteen years in the sixteenth century, born a Christian in Bosnia, appointed his own brother Serbian patriarch.",
+        "Neither description cancels the other, and the discomfort of holding them together is precisely the kind of discomfort this program of study seeks out. The closest Andean equivalent is not the mita — which is an extraction of labor, not of persons — but the education of indigenous elites for colonial service: the Colegio del Príncipe, founded around 1620 in the Cercado of Lima for the sons of caciques, trained a generation that wrote in Castilian, litigated in Spanish courts, and administered indigenous communities for the Crown. There too, individual advancement ran through incorporation into the apparatus of the dominator."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "The simultaneous world: Toledo, Luther, Potosí",
+      "paragraphs": [
+        "The global chronology of this century shows a remarkable symmetry. While the Ottomans consolidate the millet system and reach Vienna in 1529, Luther breaks Western Christian unity in 1517 and unleashes more than a century of religious wars that will kill, proportionally, more Europeans than any previous conflict. In 1571, the Ottoman fleet is defeated at Lepanto — in the waters of the Gulf of Patras, some hundred and fifty miles south of Corfu — a victory celebrated as the salvation of Christendom that changed the strategic balance not at all: the Ottomans rebuilt their fleet within a year and took Cyprus anyway.",
+        "And in Peru, between 1569 and 1581, Viceroy Francisco de Toledo carries out the most systematic colonial reorganization in the Americas: reducciones that concentrate the scattered population into grid-planned towns to facilitate tribute and doctrine, the Potosí silver mita from 1573 onward, which sent thousands of forced laborers to the silver mountain each year, the general tribute assessment, and the execution of Túpac Amaru I in 1572 to close off the Vilcabamba holdout. It is the same decade in which the Ottoman Empire perfects its own architecture of government over subjugated populations.",
+        "The comparison is not decorative: Potosí silver financed, via the Spanish crown, a substantial part of Europe's wars against the Ottomans, and much of that silver ended up in Asia paying for silk and spices. The two colonial systems were connected by the same global monetary circuit. Peru and Greece are not parallel worlds that resemble each other: they are parts of the same system from the sixteenth century onward."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Resonances 2024–2026: the millet has not ended",
+      "paragraphs": [
+        "There are three living, verifiable legacies. The first: until the year 2000, Greek identity documents recorded the holder's religion. Its removal, decided by the Simitis government in compliance with European data-protection regulations, provoked one of the largest ecclesiastical mobilizations in contemporary Greece, with mass rallies and a signature drive for a referendum. The Church lost, but the episode showed just how structural the equation between Orthodoxy and national belonging remains.",
+        "The second is more literal. In Greek western Thrace lives a Muslim minority recognized by the 1923 Treaty of Lausanne, and until 2018 its family and inheritance matters were governed compulsorily by Islamic law as applied by muftis appointed by the Greek state. Only after the ruling of the European Court of Human Rights in the Molla Sali case, in December 2018 — a Muslim widow disinherited through the application of sharia against her husband's testamentary will — did Greece make that regime optional. In other words: a fragment of the millet system continued operating within the European Union until less than a decade ago, and its dismantling came from an external tribunal, not from domestic politics.",
+        "The third is Peruvian and structurally identical: the constitutional recognition of peasant and native communities, the special jurisdiction of Article 149 enabling communal justice and rondas, and the 2011 prior consultation law. They are, in genealogy, heirs of the differentiated colonial legal regime, and they pose the same unresolved dilemma as the millet: recognizing autonomy protects ways of life while it can also entrench inequality of status, keep part of the population under a distinct legal regime, and displace the conflict onto the question of who legitimately speaks for the community. In Greece it is debated in Thrace; in Peru it is debated at every dialogue table over an extractive project. There is no clean solution, and be wary of anyone who tells you otherwise."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Coda for the journey: what to look at",
+      "paragraphs": [
+        "In Athens, look for the Ottoman layer, which is there and almost entirely unmarked. The Tzistarakis Mosque, from 1759, in Monastiraki, today a museum annex. The Fethiye Mosque, from the seventeenth century, in the Roman Agora, built over a Christian basilica that itself stood over Roman structures. The remains of the medrese beside the Tower of the Winds. And the Bath of the Winds, the city's only surviving hammam, on Kyrristou Street. Notice the museographic treatment: few panels, little context, no narrative that integrates those four centuries into the story of the city. Compare it with the interpretive abundance devoted to the classical period. That asymmetry is the politics of memory in action, and it is exactly equivalent to the way many Peruvian museums treat the colonial period as a mere transit between Inca splendor and the republic.",
+        "In Corfu, the exercise runs the other way: look for the Ottoman layer, and you will not find it, because it is not there. There is no mosque, no hammam, no minaret. The island lived through those same four centuries under Venice. That absence is the most important datum of your trip, because it means Athens and Corfu do not share four of the last six centuries of history. When you hear people speak of \"the Greeks\" as a homogeneous subject, remember that you will be visiting two societies whose historical experience has diverged since 1386.",
+        "A listening exercise: ask about the word TOURKOKRATIA — \"Turkish rule\" — and observe how it is used. It is the official name for four centuries, and naming a period after its foreign ruler implies asserting that nothing of one's own happened during that time. In the next entry we dismantle exactly that: what really happened in those four centuries, how the population lived and organized itself, and why national historiography needed to turn them into an empty parenthesis."
+      ]
+    }
+  ]
+}

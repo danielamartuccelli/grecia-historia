@@ -1,0 +1,262 @@
+/* ============================================================
+   GRECIA · 30 ENTREGAS — Sistema de diseño
+   Paleta: Egeo profundo, Jónico, Mármol/Terracota, Oro antiguo
+   ============================================================ */
+
+:root {
+  --aegean-950: #0a2a3f;
+  --aegean-900: #0F3854;
+  --aegean-800: #144a6c;
+  --ionian-600: #1D8A99;
+  --ionian-400: #4AB0B8;
+  --ionian-300: #7ecdd3;
+  --marble-50:  #F9F8F6;
+  --marble-100: #f3f1ec;
+  --marble-200: #e9e4d9;
+  --terracotta: #E07A5F;
+  --terracotta-dark: #c15f45;
+  --gold-500:   #D4AF37;
+  --gold-600:   #b7952b;
+  --ink-900:    #1b2b30;
+  --ink-600:    #3f5761;
+
+  --font-serif: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  --font-sans: 'Jost', 'Inter', system-ui, sans-serif;
+
+  --radius-lg: 1.25rem;
+  --radius-md: 0.75rem;
+  --shadow-soft: 0 10px 30px -12px rgba(15, 56, 84, 0.25);
+  --shadow-card: 0 4px 20px -6px rgba(15, 56, 84, 0.18);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(ellipse at top left, rgba(74,176,184,0.10), transparent 55%),
+    radial-gradient(ellipse at bottom right, rgba(212,175,55,0.07), transparent 50%),
+    var(--marble-50);
+  color: var(--ink-900);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* subtle marble texture */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;
+  background-image:
+    repeating-linear-gradient(115deg, rgba(15,56,84,0.015) 0px, rgba(15,56,84,0.015) 1px, transparent 1px, transparent 90px),
+    repeating-linear-gradient(25deg, rgba(224,122,95,0.02) 0px, rgba(224,122,95,0.02) 1px, transparent 1px, transparent 140px);
+}
+
+.font-serif { font-family: var(--font-serif); }
+.font-sans { font-family: var(--font-sans); }
+
+/* ---------- Glassmorphism ---------- */
+.glass {
+  background: linear-gradient(160deg, rgba(255,255,255,0.72), rgba(255,255,255,0.42));
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgba(212,175,55,0.25);
+  box-shadow: var(--shadow-card);
+}
+
+.glass-deep {
+  background: linear-gradient(160deg, rgba(15,56,84,0.85), rgba(20,74,108,0.78));
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgba(212,175,55,0.35);
+  color: var(--marble-50);
+}
+
+.gold-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold-500), transparent);
+}
+
+.gold-border { border: 1px solid rgba(212,175,55,0.4); }
+
+/* ---------- Nav / language toggle ---------- */
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  background: rgba(15,56,84,0.08);
+  border: 1px solid rgba(212,175,55,0.4);
+  padding: 3px;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+}
+.lang-toggle button {
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  color: var(--aegean-900);
+  transition: all .25s ease;
+}
+.lang-toggle button.active {
+  background: var(--aegean-900);
+  color: var(--gold-500);
+  box-shadow: 0 2px 8px rgba(15,56,84,0.35);
+}
+
+/* ---------- Reading progress bar ---------- */
+#reading-progress {
+  position: fixed;
+  top: 0; left: 0;
+  height: 3px;
+  width: 0%;
+  background: linear-gradient(90deg, var(--gold-500), var(--ionian-400));
+  z-index: 60;
+  transition: width .1s linear;
+}
+
+/* ---------- Cards ---------- */
+.entrega-card {
+  position: relative;
+  overflow: hidden;
+  transition: transform .35s cubic-bezier(.2,.8,.2,1), box-shadow .35s ease;
+}
+.entrega-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px -14px rgba(15,56,84,0.35);
+}
+.entrega-card .num-badge {
+  font-family: var(--font-serif);
+  font-weight: 600;
+}
+
+/* ---------- Wave divider ---------- */
+.wave-divider {
+  display: block;
+  width: 100%;
+  height: 46px;
+}
+
+/* ---------- Coda / checklist ---------- */
+.checklist-item {
+  cursor: pointer;
+  transition: background .2s ease, opacity .2s ease;
+}
+.checklist-item.checked {
+  opacity: 0.55;
+}
+.checklist-item.checked .item-text {
+  text-decoration: line-through;
+  text-decoration-color: var(--terracotta);
+}
+.check-circle {
+  flex: none;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 999px;
+  border: 2px solid var(--gold-500);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .2s ease, border-color .2s ease;
+}
+.checklist-item.checked .check-circle {
+  background: var(--terracotta);
+  border-color: var(--terracotta);
+}
+.check-circle svg { opacity: 0; transition: opacity .15s ease; width: 0.9rem; height: 0.9rem; color: white;}
+.checklist-item.checked .check-circle svg { opacity: 1; }
+
+/* ---------- Resonancias box ---------- */
+.resonancias-box {
+  background: linear-gradient(155deg, rgba(15,56,84,0.06), rgba(212,175,55,0.08));
+  border: 1px solid rgba(212,175,55,0.35);
+  border-left: 4px solid var(--terracotta);
+}
+
+/* ---------- TOC ---------- */
+#toc-panel {
+  transition: transform .3s ease;
+}
+.toc-link {
+  display: block;
+  padding: .4rem .75rem;
+  border-left: 2px solid transparent;
+  color: var(--ink-600);
+  font-size: 0.85rem;
+  transition: all .2s ease;
+}
+.toc-link:hover, .toc-link.active {
+  border-left-color: var(--gold-500);
+  color: var(--aegean-900);
+  background: rgba(212,175,55,0.08);
+}
+
+/* ---------- Prose (essay body) ---------- */
+.prose-essay {
+  font-family: var(--font-serif);
+  font-size: 1.22rem;
+  line-height: 1.85;
+  color: var(--ink-900);
+}
+.prose-essay p { margin: 0 0 1.35em; }
+.prose-essay .cap {
+  font-weight: 700;
+  color: var(--aegean-900);
+  letter-spacing: 0.01em;
+}
+
+/* drop cap on first paragraph of reading view */
+.dropcap::first-letter {
+  font-family: var(--font-serif);
+  float: left;
+  font-size: 4.4rem;
+  line-height: 0.8;
+  padding: 0.08em 0.1em 0 0;
+  font-weight: 700;
+  color: var(--terracotta);
+}
+
+/* ---------- Glossary term pill ---------- */
+.term-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  border: 1px solid rgba(15,56,84,0.18);
+  background: rgba(255,255,255,0.6);
+  padding: 0.15rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--aegean-900);
+  transition: all .2s ease;
+  cursor: pointer;
+}
+.term-pill:hover, .term-pill.active {
+  background: var(--aegean-900);
+  color: var(--gold-500);
+  border-color: var(--gold-500);
+}
+
+/* ---------- scrollbar (webkit) ---------- */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--marble-100); }
+::-webkit-scrollbar-thumb { background: var(--ionian-400); border-radius: 999px; }
+
+/* ---------- utility animations ---------- */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in-up { animation: fadeInUp .6s cubic-bezier(.2,.8,.2,1) both; }
+
+@media (max-width: 768px) {
+  .prose-essay { font-size: 1.08rem; }
+  .dropcap::first-letter { font-size: 3.2rem; }
+}

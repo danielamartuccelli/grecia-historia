@@ -1,0 +1,93 @@
+{
+  "numero": 29,
+  "bloque_num": "V",
+  "bloque_nombre": "CONTEMPORARY GREECE",
+  "dias": "24–30",
+  "titulo": "I Have No Oxygen",
+  "subtitulo": "Tempi, the protest cycle, and the crisis of a state that neither protects nor answers (2022 – 2026)",
+  "fecha_emision": "August 16, 2026",
+  "viaje": "Athens – Corfu – Paxos · departure September 11, 2026",
+  "destinataria": "Daniela Martuccelli — sociologist",
+  "registro": "analytical essay · 29 of 30",
+  "glosario": [
+    "CAPACITY",
+    "GYNAIKOKTONÍA",
+    "IT WAS NOT AN ACCIDENT",
+    "PASOK",
+    "ACKNOWLEDGMENT OF RESPONSIBILITY",
+    "STATE RESPONSIBILITY"
+  ],
+  "coda": {
+    "heading": "Coda for the trip: what to look for",
+    "intro": [
+      "Pay attention to the walls. In Athens, and in Corfu too, you'll see graffiti and posters about Tempi: the number 57, the phrase about oxygen, the Greek word for murder. It is active memory in public space, not institutional commemoration, and its presence three years on tells you the matter is not closed. Photograph it if it interests you; it's material."
+    ],
+    "items": [
+      {
+        "label": "",
+        "text": "If you take a train in Greece — the Athens–Thessaloniki route or any other — you'll see the social unease around the railway: ridership fell after the crash and the recovery of confidence has been slow. It's a rare, observable case of how a single event reshapes an everyday practice."
+      },
+      {
+        "label": "",
+        "text": "And a question you can ask without any risk, and that opens up long conversations: what happened with Tempi. You'll hear different versions, with different degrees of suspicion, and all of them will tell you something about that person's relationship with the state. It is the functional equivalent of asking, in Peru, about a tragedy with no one held responsible. Listen in particular for the phrase that the state knew: it is the same accusation that organizes the claims of Peru's victims of the 2022 and 2023 repression, and its recurrence in such different contexts indicates that the underlying contemporary demand is not for compensation but for ACKNOWLEDGMENT OF RESPONSIBILITY — which is exactly what states are usually least willing to grant."
+      }
+    ],
+    "closing": [
+      "The final entrega, tomorrow, closes the course of study: it recaps the thirty days into a usable structure, describes what is happening in Greece in the exact month of your trip, and leaves you an observation protocol for Athens, Corfu, and Paxos, with the concrete questions worth asking and the specific places worth going."
+    ],
+    "next_hint": null
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "Two trains on the same track",
+      "paragraphs": [
+        "On the night of February 28, 2023, a passenger train traveling from Athens to Thessaloniki and a freight train traveling in the opposite direction ran for about twelve minutes on the same track and collided head-on near the Tempi valley. Fifty-seven people died. Most were university students returning from the carnival holiday.",
+        "The immediate cause was human error: a stationmaster with only a few months' experience, alone on his shift, routed the passenger train onto the wrong track. The structural cause is a different matter, and it is the one that produced what came after. The signaling and remote-control system that would have physically prevented that maneuver — the contract known as 717, awarded in 2014 and partly financed by European funds — was never completed, despite years of extensions, partial payments, and repeated warnings from the railway unions, who had publicly flagged the risk shortly before the crash. The network operated on radio communication and individual vigilance.",
+        "It is the reaction that followed that turned an accident into a long-running political crisis. In the days after the collision, the site was leveled with heavy machinery and covered with gravel before the forensic examination was completed: the families maintain that this destroyed material evidence. There was public debate over the nature of the freight train's cargo and the origin of a fireball following the impact that the initial official hypotheses did not explain. The European Public Prosecutor's Office opened an investigation into the use of European funds under contract 717. And for three years, the victims' families — organized, articulate, with lawyers and a sustained public presence — have run a campaign whose slogan is not compensation but truth."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "The largest protest cycle since the crisis",
+      "paragraphs": [
+        "There were immediate protests in March 2023, with clashes. But the high point came on the second anniversary: on February 28, 2025, a general strike and simultaneous rallies in dozens of Greek cities and in more than a hundred cities worldwide with a diaspora presence produced, by every available estimate, one of the largest mobilizations in modern Greek history. It was not called by parties. It was led by associations of the victims' families, with union support and a participation that cut across age and political position.",
+        "The slogan that organized it comes from a message attributed to one of the victims in the moments after the crash — \"I have no oxygen\" — and the central demand can be summed up in a formula worth remembering: IT WAS NOT AN ACCIDENT. Not in the sense that there was intent, but in the sense that the outcome was foreseeable and avoidable, had been warned of, and no one took responsibility.",
+        "For a sociological reading, this is the decisive point, and what makes Tempi so different from the 2010 crisis. That one was a mobilization about distribution: who pays for the adjustment. This one is a mobilization about STATE CAPACITY AND RESPONSIBILITY: whether the state can perform its most basic function, which is to prevent two trains from running head-on on the same track, and whether anyone answers for it when it cannot. It does not divide society along left and right, because the vulnerability is universal: anyone could have been on that train. That is why it mobilized people who had never been to a demonstration in their lives.",
+        "Movements of this kind — triggered by an avoidable catastrophe and organized by victims' families — have a particular power and a characteristic limitation. Their power is unquestionable moral legitimacy and cross-cutting reach. Their limitation is that they produce no program: they can bring down a government's credibility and cannot replace it. In 2026, three years on, the government remains in office, the judicial proceedings move slowly, and institutional distrust is higher than before."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "The other fronts: wiretapping, the press, violence against women",
+      "paragraphs": [
+        "Tempi did not happen in a vacuum. It is worth taking stock of the context, because it shapes the climate you will find.",
+        "In 2022 it emerged that the national intelligence service had been surveilling journalists and politicians, including the leader of PASOK, and that at the same time the commercial spyware program Predator was circulating in Greece, used against the same targets. The service's director and the prime minister's cabinet secretary-general resigned. The parliamentary and judicial investigations did not establish any deeper political responsibility. It is, with 2022-vintage technology, the discussion from entrega 20 about the apparatus that outlives the regimes it was built under: the surveillance capacity remains available, and its democratic oversight is weak.",
+        "On international press-freedom indexes, Greece ranked last in the European Union in 2022 and 2023, with partial improvement afterward. Weighing on it: the unsolved murder of the journalist Giorgos Karaivaz in 2021, concentrated media ownership, and dependency on state advertising.",
+        "And there is the debate over violence against women. As we saw in entrega 10, the term GYNAIKOKTONÍA (femicide) entered Greek public debate starting in 2021; the feminist movement demands its recognition as an autonomous criminal offense, and successive governments have maintained that aggravated homicide already covers it; the debate remained open in 2025 and 2026, with high-profile cases that periodically reignite it. In the opposite direction, in February 2024 Greece approved equal civil marriage, the first among majority-Orthodox countries to do so, against the Church's outright opposition. On matters of gender, Greek society is moving faster than its criminal legislation and faster than its religious institution."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "The climate: the variable that reorders everything",
+      "paragraphs": [
+        "And there is what may well prove, over ten or twenty years, the single most decisive factor of all.",
+        "In August 2023, the fire in the Evros region burned an area that made it the largest wildfire ever recorded in the European Union. In September of that same year, storm Daniel dropped unprecedented recorded rainfall on Thessaly, flooded Greece's most productive agricultural plain, killed several people, and destroyed crops, livestock, and infrastructure on a scale the region has not recovered from. Fire and flood in the same season, in the same country, three weeks apart.",
+        "Since then, every Greek summer has included heat waves severe enough to close the Acropolis during the middle of the day — it happened in 2023, 2024, and 2025 — and increasingly demanding fire seasons. In the winter of 2025, a prolonged seismic swarm in Santorini forced a state of emergency and the evacuation of much of the island's population and seasonal workforce, with an immediate impact on the season.",
+        "And on the islands, water. The Cyclades and the Ionian islands depend on limited aquifers, cisterns, water-tanker ships, and desalination, and in summer their population multiplies five- or tenfold. Recent summers have brought restrictions and episodes of water stress on several islands. It is the problem I raised in entrega 1 and that we will return to tomorrow, in the last entrega: scarcity as a revealer of social structure.",
+        "The Peruvian mirror needs no elaboration: Peru is one of the countries most exposed in the world to climate variability, with the retreat of tropical glaciers, the recurrence of El Niño — the coastal event of 2017, cyclone Yaku in 2023 — and a state response whose limits show up with every emergency. In both countries, disaster functions as a test of state capacity, and in both, the result of that test feeds the distrust we have examined in this entrega. It is the same crisis as Tempi, with a different trigger: the realization that the warning existed and no one acted on it."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Coda for the trip: what to look for",
+      "paragraphs": [
+        "Pay attention to the walls. In Athens, and in Corfu too, you'll see graffiti and posters about Tempi: the number 57, the phrase about oxygen, the Greek word for murder. It is active memory in public space, not institutional commemoration, and its presence three years on tells you the matter is not closed. Photograph it if it interests you; it's material.",
+        "If you take a train in Greece — the Athens–Thessaloniki route or any other — you'll see the social unease around the railway: ridership fell after the crash and the recovery of confidence has been slow. It's a rare, observable case of how a single event reshapes an everyday practice.",
+        "And a question you can ask without any risk, and that opens up long conversations: what happened with Tempi. You'll hear different versions, with different degrees of suspicion, and all of them will tell you something about that person's relationship with the state. It is the functional equivalent of asking, in Peru, about a tragedy with no one held responsible. Listen in particular for the phrase that the state knew: it is the same accusation that organizes the claims of Peru's victims of the 2022 and 2023 repression, and its recurrence in such different contexts indicates that the underlying contemporary demand is not for compensation but for ACKNOWLEDGMENT OF RESPONSIBILITY — which is exactly what states are usually least willing to grant.",
+        "The final entrega, tomorrow, closes the course of study: it recaps the thirty days into a usable structure, describes what is happening in Greece in the exact month of your trip, and leaves you an observation protocol for Athens, Corfu, and Paxos, with the concrete questions worth asking and the specific places worth going."
+      ]
+    }
+  ],
+  "_file": "Entrega_29_No_tengo_oxigeno.docx"
+}

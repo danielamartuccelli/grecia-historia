@@ -1,0 +1,121 @@
+{
+  "numero": 2,
+  "bloque_num": "I",
+  "bloque_nombre": "CIMIENTOS ANTIGUOS",
+  "dias": "1–8",
+  "titulo": "La victoria que no sirvió de nada",
+  "subtitulo": "Hegemonías fallidas, mercenarios y el agotamiento de la polis como forma política (404 – 338 a.C.)",
+  "fecha_emision": "16 de agosto de 2026",
+  "viaje": "Atenas – Corfú – Paxos · salida 11 de septiembre de 2026",
+  "destinataria": "Daniela Martuccelli — socióloga",
+  "registro": "ensayo analítico · 2 de 30",
+  "glosario": [
+    "ANÁBASIS",
+    "AUTONOMÍA",
+    "CIUDADANÍA EXTENSIBLE",
+    "FORMA POLÍTICA",
+    "HILOTAS",
+    "OTAN",
+    "SARISA",
+    "SERVIDUMBRE VOLUNTARIA",
+    "SOBERANÍA"
+  ],
+  "coda": {
+    "heading": "Coda para el viaje: qué mirar",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "En Atenas, busca en el Museo Arqueológico Nacional y en el Cerámico las estelas funerarias del siglo IV a.C. y compáralas mentalmente con las del siglo V. El cambio es notable: crece el tamaño, crece el gasto, crece la exhibición de la intimidad familiar y del duelo privado. Es la firma material de una sociedad que se repliega de lo público hacia lo doméstico y que expresa su jerarquía en el mármol funerario. Demetrio de Falero tuvo que prohibirlas por suntuarias hacia 317 a.C. La monumentalización de la muerte privada suele acompañar el vaciamiento de la vida cívica; observa si reconoces el fenómeno en los cementerios limeños."
+      },
+      {
+        "label": "",
+        "text": "En Corfú, la pregunta a formular en cualquier conversación es quién decide. La isla ha estado desde siempre dentro de un sistema de protección externa —ateniense, romana, veneciana, francesa, británica, europea— y su clase dirigente ha sabido siempre convertir esa dependencia en recurso. No es servilismo: es una estrategia racional de élite periférica, la misma que estudiamos en el Perú bajo el nombre de intermediación criolla. Escucha cómo se habla de los fondos europeos y de las inversiones extranjeras, y quién los administra."
+      }
+    ],
+    "closing": [],
+    "next_hint": "La próxima entrega examina el momento en que esta arquitectura se rompe hacia afuera: Alejandro, entre 336 y 323 a.C., convierte el problema griego en un problema imperial, y con ello inaugura la condición que definirá a los griegos durante los dos mil años siguientes —ser la élite cultural de Estados que no controlan—. Es también, y no por casualidad, el nombre por el cual Grecia sostuvo entre 1991 y 2018 una de las disputas diplomáticas más obstinadas de la Europa contemporánea."
+  },
+  "resonancias": {
+    "num": "VII",
+    "heading": "Resonancias 2024–2026: rearme, agotamiento y elecciones sin proyecto",
+    "paragraphs": [
+      "Tres resonancias contemporáneas hacen que este período deje de ser arqueología. La primera es el rearme. Grecia sostiene desde hace décadas uno de los gastos militares más altos de la OTAN en proporción a su economía —por encima del tres por ciento del producto—, sostenido por la hipótesis turca, y firmó en 2021 un acuerdo de defensa mutua con Francia junto a la compra de fragatas y cazas. Desde 2022, y con mayor intensidad en 2024–2026, la Unión Europea entera discute su rearme y la reconstrucción de una autonomía estratégica que no tiene. La estructura del problema es la misma que en 387 a.C.: cómo se financia la defensa de un espacio fragmentado, quién decide, y qué se cede a cambio de la protección. El garante ha cambiado de nombre —Susa, Washington, Bruselas— pero la pregunta del débil frente al fuerte, formulada en Melos, no ha cambiado de forma.",
+      "La segunda es el agotamiento de las formas políticas. Lo que hemos descrito en este período —instituciones que siguen funcionando formalmente mientras pierden capacidad de decidir— es un diagnóstico incómodamente aplicable al presente. En Grecia, el bipartidismo posterior a 1974 sobrevivió a la crisis de 2010 pero con una participación electoral erosionada y una desconfianza institucional que las movilizaciones por el desastre ferroviario de Tempi expusieron con crudeza en 2023 y 2025. En el Perú, la elección general de abril de 2026 se celebró con una fragmentación de candidaturas y de bancadas sin precedente en la historia republicana, después de una década en que el Congreso convirtió la vacancia presidencial en instrumento ordinario de gobierno. En ambos casos la maquinaria formal opera —hay elecciones, hay tribunales, hay alternancia— y la capacidad de producir decisiones colectivas duraderas se ha vaciado. Es el estado de Grecia en 350 a.C.: mucha política, poca soberanía.",
+      "La tercera es más específica y más útil para el viaje. Corcira participó en la Segunda Liga Ateniense desde 375 a.C. y volvió a desgarrarse en una guerra civil oligárquico-democrática en 361 a.C.: la isla repite su patrón, la bisagra geográfica se convierte en bisagra faccional, porque en un nodo de tránsito siempre hay un partido del comercio con Occidente y un partido de la alianza con el Este. Ese patrón —élites locales alineadas con potencias externas rivales, y una población que paga el arbitraje— es reconocible en cualquier economía periférica contemporánea, incluida la relación peruana entre proyecto minero, capital extranjero y comunidad, donde la disputa nunca es solo local aunque los muertos siempre lo sean."
+    ]
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "Esparta gana la guerra y pierde el argumento",
+      "paragraphs": [
+        "La entrega anterior terminó en 404 a.C., con la flota ateniense destruida y las murallas del Pireo derribadas al son de las flautas. La historiografía escolar suele cerrar ahí el ciclo clásico y saltar a Alejandro. Ese salto oculta el período más instructivo para una lectura sociológica: los sesenta y seis años en que el sistema de poleis intenta, tres veces consecutivas, producir un orden hegemónico estable, y fracasa tres veces. Lo que se agota entre 404 y 338 a.C. no es una ciudad ni una dinastía: es una FORMA POLÍTICA completa.",
+        "Empecemos por la incomodidad fundacional. Esparta venció a Atenas porque Persia le pagó la flota. El tratado de Mileto y sus sucesivas renegociaciones entregaron a Ciro el Joven y a los sátrapas de Anatolia lo que Salamina había impedido: la tutela sobre los griegos de Asia. Es decir, la potencia que se presentaba como liberadora de Grecia frente a la tiranía ateniense financió su victoria vendiendo a los griegos jonios al imperio contra el cual, ochenta años antes, se había construido toda la legitimidad del mundo helénico. Aquí conviene resistir la tentación moralizante. Lo interesante no es la hipocresía —la hipocresía es el estado normal de la política internacional— sino el hecho estructural: ninguna polis tenía base fiscal suficiente para sostener una flota permanente sin un subsidio externo. La AUTONOMÍA proclamada era financieramente imposible. Todo el período que sigue es la administración de esa imposibilidad.",
+        "Esparta administró su victoria con una brutalidad que erosionó su capital político en menos de una década: guarniciones (harmostas) y juntas de diez oligarcas impuestas en las ciudades liberadas, tributo, y en Atenas el régimen de los Treinta, cuyo terror de 404–403 a.C. costó, según las cifras antiguas, unos mil quinientos muertos en ocho meses sobre una ciudadanía ya diezmada. La democracia ateniense se restauró en 403 con una amnistía explícita —la prohibición legal de «recordar los males», MĒ MNĒSIKAKEIN—, uno de los primeros dispositivos jurídicos de olvido obligatorio de los que tenemos registro. Cuatro años después esa misma democracia restaurada ejecutó a Sócrates. Esa secuencia —terror, amnistía, restauración, y una ansiedad persecutoria que busca culpables simbólicos— es exactamente la que las transiciones latinoamericanas del siglo XX volvieron a recorrer. El pacto de olvido es eficaz para reconstruir instituciones y desastroso para procesar responsabilidades; Grecia lo aplicará otra vez en 1974, y el Perú lo intentó, con menos éxito y más impunidad, después del conflicto interno de 1980–2000."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "La Paz del Rey: Persia como árbitro de Grecia (395–386 a.C.)",
+      "paragraphs": [
+        "La reacción contra la hegemonía espartana produjo la Guerra de Corinto (395–387 a.C.), en la que Atenas, Tebas, Corinto y Argos se aliaron contra Esparta con oro persa, exactamente como Esparta había derrotado a Atenas con oro persa. El desenlace es de una ironía perfecta y de una utilidad analítica enorme: la Paz del Rey, o de Antálcidas, de 387/386 a.C., fue dictada desde Susa. El texto disponía que las ciudades de Asia pertenecían al Gran Rey y que las demás serían autónomas, y que quien no lo aceptara tendría al rey como enemigo. Por primera vez, un documento persa se convierte en la constitución del mundo griego, y el principio de AUTONOMÍA —la palabra clave de todo el vocabulario político helénico— aparece como concesión imperial, no como conquista propia.",
+        "Vale la pena detenerse en el mecanismo, porque se repite. La autonomía general funcionaba, en la práctica, como instrumento de fragmentación: impedía las ligas y confederaciones, es decir, impedía cualquier agregación de poder capaz de desafiar al árbitro. Esparta se convirtió en ejecutora de esa cláusula y la usó para disolver la confederación beocia y ocupar la Cadmea de Tebas en 382 a.C. en plena paz. El derecho internacional, cuando lo garantiza una potencia con intereses, tiende a producir el orden que conviene al garante. Es la misma estructura que examinamos en la entrega anterior a propósito de las doce millas del Jónico, y la misma que atraviesa cualquier discusión contemporánea sobre condicionalidad, arbitrajes de inversión o supervisión fiscal supranacional. Un país puede ser formalmente soberano y estar constituido por reglas que no escribió."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "Tebas: la única revolución social del período (371–362 a.C.)",
+      "paragraphs": [
+        "La hegemonía tebana dura apenas nueve años y suele tratarse como interludio. Fue mucho más que eso. En Leuctra, en 371 a.C., Epaminondas derrotó al ejército espartano con una innovación táctica —el ala izquierda reforzada en cincuenta filas, el orden oblicuo— que rompió el mito de invencibilidad hoplita de Esparta. Pero la decisión verdaderamente radical vino después. En 370/369 a.C. Epaminondas invadió Laconia, algo que ningún enemigo había hecho en siglos, y en lugar de saquear y volverse hizo lo único irreversible: liberó Mesenia y fundó la ciudad de Mesene.",
+        "Entender el peso de eso exige recordar qué era Esparta. Su sistema de ciudadanos-guerreros a tiempo completo se sostenía sobre el trabajo forzado de los HILOTAS mesenios, una población sometida durante unos trescientos cincuenta años, sobre la cual los éforos declaraban formalmente la guerra cada año para que matarlos no constituyera homicidio ritual. Liberar Mesenia no fue un gesto humanitario: fue la destrucción quirúrgica de la base material de una potencia. Esparta no se recuperó jamás. Ya venía sufriendo la OLIGANTHRŌPÍA, la caída del número de ciudadanos de pleno derecho —de unos ocho mil a comienzos del siglo V a poco más de mil en el IV— por concentración de la tierra y por reglas de herencia que expulsaban del cuerpo cívico a quien no podía pagar su cuota del comedor común. Un régimen que se presentaba como el más igualitario de Grecia se derrumbó por desigualdad interna.",
+        "La lectura sociológica es directa y vale para el Perú tanto como para Grecia: ningún orden político sobrevive a la erosión silenciosa de la base social que lo sostiene, por más impecable que sea su fachada institucional o su prestigio militar. Esparta fue derrotada dos veces, y la primera derrota —demográfica, agraria, invisible— precedió a Leuctra en varias generaciones. Cuando Epaminondas murió en Mantinea, en 362 a.C., Jenofonte cerró su historia con una frase que es, en sí misma, un diagnóstico de agotamiento sistémico: hubo después de la batalla «aún más confusión y desorden en Grecia que antes»."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "Mercenarios: el ciudadano-soldado se vuelve mano de obra",
+      "paragraphs": [
+        "El fenómeno menos visible y más decisivo de estas décadas es la profesionalización de la violencia. En 401 a.C., diez mil griegos se alistaron como mercenarios en la guerra dinástica persa de Ciro el Joven; tras la derrota de Cunaxa, atravesaron Mesopotamia y Armenia hasta el mar Negro, y Jenofonte convirtió esa retirada en la ANÁBASIS. El libro suele leerse como epopeya de la resistencia; leído como documento social es otra cosa: la prueba de que existía, a comienzos del siglo IV a.C., un mercado laboral panhelénico de hombres armados dispuestos a servir a cualquier pagador, incluido el enemigo tradicional.",
+        "La causa es económica. Las guerras del siglo V habían arruinado a miles de pequeños propietarios; la tierra se concentró; el exceso demográfico ya no podía drenarse por colonización porque las costas estaban ocupadas. El resultado es un excedente de varones jóvenes sin tierra ni oficio, y una demanda constante de ellos en Persia, en Egipto rebelde, en Sicilia, en Macedonia. Isócrates lo dice sin rodeos hacia 346 a.C., proponiendo a Filipo una cruzada panhelénica: hay que llevarse a esos hombres fuera antes de que se conviertan en un problema interno. La guerra externa como válvula de escape de una crisis social interna es un argumento que reaparece con una regularidad deprimente en la historia.",
+        "El efecto político es más profundo que el militar. La democracia ateniense, según vimos, nació del vínculo entre servicio militar y ciudadanía: el remero pobre exigía voz porque su cuerpo sostenía la ciudad. Cuando la guerra la hacen profesionales pagados y generales que negocian sus propios contratos —Ifícrates, Cares, Timoteo operan casi como empresarios militares—, ese vínculo se corta. La ciudadanía deja de tener un precio corporal y pasa a tener un precio fiscal. El ciudadano se vuelve contribuyente y espectador. Cualquiera que observe la relación contemporánea entre ejércitos profesionales, contratistas privados y opinión pública desmovilizada reconocerá la transición. En el Perú, la suspensión efectiva del servicio militar obligatorio y la delegación creciente de funciones de seguridad a empresas privadas produjeron una versión propia de esa desconexión: la seguridad como servicio que se compra, no como obligación que se comparte, con las consecuencias evidentes en desigualdad de protección entre distritos."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Filipo: la periferia devora al centro (359–338 a.C.)",
+      "paragraphs": [
+        "Macedonia era, para los atenienses del siglo V, un territorio semibárbaro del norte que exportaba madera para barcos y cuyos reyes hablaban un griego dudoso. En 359 a.C. sube al trono Filipo II tras una derrota catastrófica frente a los ilirios, con el reino a punto de disolverse. En veinte años construye el Estado más eficaz que había existido en el mundo griego, y lo hace combinando exactamente aquello que las poleis no podían combinar: una base territorial amplia con población campesina, una monarquía capaz de decidir sin asamblea, minas de oro —Pangeo, tras la toma de Anfípolis en 357 a.C., produciendo mil talentos anuales— y un ejército permanente entrenado todo el año con la SARISA, la pica de cinco a seis metros que vuelve inútil la formación hoplita tradicional.",
+        "La observación decisiva es que Filipo no derrotó a las poleis principalmente por superioridad militar, sino por superioridad de tiempo. Un ejército permanente puede hacer campaña en invierno; una milicia ciudadana debe volver a la cosecha. Una monarquía puede sostener una política exterior de dos décadas; una asamblea cambia de rumbo cada temporada según quién hable mejor ese día. Filipo compró, sobornó, casó hijas, intervino en la Tercera Guerra Sagrada como defensor de Delfos y obtuvo así asiento en el consejo anfictiónico: se hizo griego por vía institucional antes de conquistar Grecia por vía militar.",
+        "El debate ateniense de esos años es una de las discusiones políticas más ricas de la Antigüedad y no tiene un lado obviamente correcto. Demóstenes, en las Filípicas, sostiene que la libertad no es negociable y que ceder ante Filipo por comodidad es la forma más segura de perderlo todo. Isócrates responde que la autonomía de las poleis ya es una ficción, que llevan un siglo destruyéndose entre sí, y que la única salida realista es aceptar un hegemón capaz de imponer paz y volcar la violencia hacia Persia. Uno defiende un principio que ya no tiene base material; el otro ofrece una solución cuyo precio es la SERVIDUMBRE VOLUNTARIA. En Queronea, en 338 a.C., el ejército macedonio destruyó al ateniense y al tebano —el Batallón Sagrado murió íntegro en el campo— y al año siguiente la Liga de Corinto formalizó una paz común bajo hegemonía macedonia. La forma de la polis sobrevivió intacta: asambleas, magistrados, festivales, tribunales. Lo que desapareció fue su capacidad de decidir la guerra y la paz. Es la diferencia exacta entre AUTONOMÍA y SOBERANÍA, y es la que ordena todo lo que veremos en las entregas siguientes, hasta el año 2026."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "El mundo simultáneo: Susa, Cartago, Roma, los Andes",
+      "paragraphs": [
+        "Mientras Grecia se desangraba, el imperio aqueménida atravesaba sus propias convulsiones dinásticas y reconquistaba Egipto en 343 a.C. tras sesenta años de independencia: seguía siendo, en vísperas de su caída, el Estado más rico del planeta. En el Mediterráneo occidental, Cartago y la Siracusa de Dionisio I libraban una guerra secular por Sicilia con ejércitos también mercenarios. Y en el Lacio, en el mismo año 338 a.C. de Queronea, Roma cerraba la Guerra Latina y reorganizaba a los pueblos vencidos con un instrumento que Grecia nunca inventó: la CIUDADANÍA EXTENSIBLE, en grados, incluyendo la ciudadanía sin voto. Esa diferencia técnica —una comunidad política que puede crecer incorporando en lugar de excluir— explica buena parte de por qué Roma construyó un imperio duradero y las poleis griegas no pudieron ni siquiera federarse. La ciudadanía ateniense, cerrada por la ley de Pericles de 451 a.C. a los hijos de padre y madre atenienses, era un privilegio hereditario; la romana era, en principio, un instrumento de gobierno.",
+        "En los Andes, entre los siglos V y II a.C. se disuelve el horizonte Chavín y el mundo formativo se fragmenta en tradiciones regionales —Paracas en la costa sur, con sus fardos funerarios y su iconografía de decapitadores; los desarrollos que desembocarán en Nasca y en Moche—. El paralelo con Grecia es preciso: en ambos casos el fin de una koiné integradora no produce unificación sino un mosaico de poderes regionales en competencia, con militarización creciente y una iconografía de la violencia más explícita. Y en ambos casos la unificación posterior llegará desde una periferia que nadie consideraba central: Macedonia en el norte griego, Wari y después el Cusco en las alturas andinas. Los centros rara vez se reinventan; suelen ser reemplazados por sus márgenes."
+      ]
+    },
+    {
+      "num": "VII",
+      "heading": "Resonancias 2024–2026: rearme, agotamiento y elecciones sin proyecto",
+      "paragraphs": [
+        "Tres resonancias contemporáneas hacen que este período deje de ser arqueología. La primera es el rearme. Grecia sostiene desde hace décadas uno de los gastos militares más altos de la OTAN en proporción a su economía —por encima del tres por ciento del producto—, sostenido por la hipótesis turca, y firmó en 2021 un acuerdo de defensa mutua con Francia junto a la compra de fragatas y cazas. Desde 2022, y con mayor intensidad en 2024–2026, la Unión Europea entera discute su rearme y la reconstrucción de una autonomía estratégica que no tiene. La estructura del problema es la misma que en 387 a.C.: cómo se financia la defensa de un espacio fragmentado, quién decide, y qué se cede a cambio de la protección. El garante ha cambiado de nombre —Susa, Washington, Bruselas— pero la pregunta del débil frente al fuerte, formulada en Melos, no ha cambiado de forma.",
+        "La segunda es el agotamiento de las formas políticas. Lo que hemos descrito en este período —instituciones que siguen funcionando formalmente mientras pierden capacidad de decidir— es un diagnóstico incómodamente aplicable al presente. En Grecia, el bipartidismo posterior a 1974 sobrevivió a la crisis de 2010 pero con una participación electoral erosionada y una desconfianza institucional que las movilizaciones por el desastre ferroviario de Tempi expusieron con crudeza en 2023 y 2025. En el Perú, la elección general de abril de 2026 se celebró con una fragmentación de candidaturas y de bancadas sin precedente en la historia republicana, después de una década en que el Congreso convirtió la vacancia presidencial en instrumento ordinario de gobierno. En ambos casos la maquinaria formal opera —hay elecciones, hay tribunales, hay alternancia— y la capacidad de producir decisiones colectivas duraderas se ha vaciado. Es el estado de Grecia en 350 a.C.: mucha política, poca soberanía.",
+        "La tercera es más específica y más útil para el viaje. Corcira participó en la Segunda Liga Ateniense desde 375 a.C. y volvió a desgarrarse en una guerra civil oligárquico-democrática en 361 a.C.: la isla repite su patrón, la bisagra geográfica se convierte en bisagra faccional, porque en un nodo de tránsito siempre hay un partido del comercio con Occidente y un partido de la alianza con el Este. Ese patrón —élites locales alineadas con potencias externas rivales, y una población que paga el arbitraje— es reconocible en cualquier economía periférica contemporánea, incluida la relación peruana entre proyecto minero, capital extranjero y comunidad, donde la disputa nunca es solo local aunque los muertos siempre lo sean."
+      ]
+    },
+    {
+      "num": "VIII",
+      "heading": "Coda para el viaje: qué mirar",
+      "paragraphs": [
+        "En Atenas, busca en el Museo Arqueológico Nacional y en el Cerámico las estelas funerarias del siglo IV a.C. y compáralas mentalmente con las del siglo V. El cambio es notable: crece el tamaño, crece el gasto, crece la exhibición de la intimidad familiar y del duelo privado. Es la firma material de una sociedad que se repliega de lo público hacia lo doméstico y que expresa su jerarquía en el mármol funerario. Demetrio de Falero tuvo que prohibirlas por suntuarias hacia 317 a.C. La monumentalización de la muerte privada suele acompañar el vaciamiento de la vida cívica; observa si reconoces el fenómeno en los cementerios limeños.",
+        "En Corfú, la pregunta a formular en cualquier conversación es quién decide. La isla ha estado desde siempre dentro de un sistema de protección externa —ateniense, romana, veneciana, francesa, británica, europea— y su clase dirigente ha sabido siempre convertir esa dependencia en recurso. No es servilismo: es una estrategia racional de élite periférica, la misma que estudiamos en el Perú bajo el nombre de intermediación criolla. Escucha cómo se habla de los fondos europeos y de las inversiones extranjeras, y quién los administra.",
+        "La próxima entrega examina el momento en que esta arquitectura se rompe hacia afuera: Alejandro, entre 336 y 323 a.C., convierte el problema griego en un problema imperial, y con ello inaugura la condición que definirá a los griegos durante los dos mil años siguientes —ser la élite cultural de Estados que no controlan—. Es también, y no por casualidad, el nombre por el cual Grecia sostuvo entre 1991 y 2018 una de las disputas diplomáticas más obstinadas de la Europa contemporánea."
+      ]
+    }
+  ],
+  "_file": "Entrega_02_La_victoria_inutil.docx"
+}

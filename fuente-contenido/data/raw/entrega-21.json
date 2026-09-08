@@ -1,0 +1,102 @@
+{
+  "numero": 21,
+  "bloque_num": "IV",
+  "bloque_nombre": "CATACLISMOS DEL SIGLO XX",
+  "dias": "18–23",
+  "titulo": "El invierno y la lista",
+  "subtitulo": "Ocupación, hambruna, resistencia y el exterminio de la comunidad judía de Corfú (1941 – 1944)",
+  "fecha_emision": "16 de agosto de 2026",
+  "viaje": "Atenas – Corfú – Paxos · salida 11 de septiembre de 2026",
+  "destinataria": "Daniela Martuccelli — socióloga",
+  "registro": "ensayo analítico · 21 de 30",
+  "glosario": [
+    "COLAPSO DEL ACCESO",
+    "CORFÚ",
+    "EDES",
+    "ELAS",
+    "PAXOS FUERON ITALIANAS",
+    "PEEA",
+    "VOTARON LAS MUJERES"
+  ],
+  "coda": {
+    "heading": "Coda para el viaje: qué mirar",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "En Corfú, ve al barrio Evraikí, detrás de la fortaleza nueva. La sinagoga Scuola Greca está abierta a visitantes en horarios limitados y la comunidad actual es de unas pocas decenas de personas. En la plaza Solomou hay un monumento a las víctimas, con una inscripción que recuerda el 9 de junio de 1944. Es un lugar discreto, sin señalización turística prominente, y por eso mismo vale la pena buscarlo. Ten presente, al recorrer la fortaleza vieja como atracción, que fue el punto de concentración previo a la deportación."
+      },
+      {
+        "label": "",
+        "text": "En Atenas, si te interesa, el Museo Judío de Grecia en Plaka es pequeño y excelente, y documenta específicamente las comunidades romaniota y sefardí. Y en el barrio de Kaisarianí, donde en mayo de 1944 fueron fusilados doscientos rehenes comunistas en represalia, hay un monumento en el antiguo campo de tiro."
+      }
+    ],
+    "closing": [
+      "Pregunta, si hay ocasión, por Zante y por el obispo Chrysóstomos: es una historia que en las Jónicas se conoce y se cuenta con orgullo, y observar cómo se narra —qué se enfatiza, a quién se atribuye el mérito, si aparece o no la pregunta de por qué en Corfú fue distinto— es un ejercicio de memoria comparada que puedes hacer en una conversación de sobremesa."
+    ],
+    "next_hint": "La próxima entrega es la más dura del bloque: la guerra civil de 1943 a 1949, que empezó dentro de la ocupación, que Churchill y Stalin repartieron en una servilleta en Moscú en octubre de 1944, que convirtió a Grecia en el primer campo de batalla de la Guerra Fría, y que instaló un Estado de vencedores cuyos certificados de convicciones nacionales condicionaron la vida de millones de personas durante treinta años."
+  },
+  "resonancias": null,
+  "sections": [
+    {
+      "num": "I",
+      "heading": "Un país partido en tres",
+      "paragraphs": [
+        "La invasión alemana comenzó el 6 de abril de 1941 y en tres semanas el frente se derrumbó. Creta cayó en mayo tras la primera gran operación aerotransportada de la historia, en la que la población civil participó en la resistencia con lo que tuviera a mano y sufrió por ello represalias inmediatas y masivas.",
+        "Lo que siguió no fue una ocupación sino tres. Alemania retuvo Atenas, Salónica, Creta y los puntos estratégicos; Italia administró la mayor parte del territorio continental y las islas Jónicas —es decir, CORFÚ Y PAXOS FUERON ITALIANAS entre 1941 y septiembre de 1943—; y Bulgaria anexó de hecho Macedonia oriental y Tracia, con una política de bulgarización violenta. El país quedó troceado, con tres administraciones, tres monedas de ocupación y tres políticas distintas hacia la población.",
+        "Esa fragmentación importa para entender lo que viene: no hubo una experiencia griega de la ocupación sino varias, y las diferencias regionales de esos cuatro años explican buena parte de los alineamientos posteriores en la guerra civil. Corfú, bajo administración italiana hasta 1943, vivió una ocupación comparativamente menos letal; a partir de septiembre de 1943, cuando Italia capituló y los alemanes tomaron el relevo tras bombardear la isla y desarmar a la guarnición italiana, todo cambió."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "La hambruna de 1941–1942: escasez administrada",
+      "paragraphs": [
+        "El invierno de 1941–1942 produjo en Atenas una hambruna cuyas estimaciones de mortalidad oscilan entre cien mil y trescientas mil personas en el conjunto del país. Hay fotografías de carros recogiendo cadáveres en la calle por la mañana. Es uno de los episodios de hambre urbana más severos de la Europa del siglo XX y es también, analíticamente, un caso de manual.",
+        "Grecia importaba una parte sustancial de su trigo antes de la guerra. La ocupación cortó las importaciones, requisó producción para alimentar a las tropas, desarticuló el transporte interno entre regiones —cada zona de ocupación operaba por separado— y provocó una hiperinflación que destruyó el valor del salario y del ahorro. Simultáneamente, el bloqueo naval aliado impedía la entrada de alimentos, con el argumento de que abastecer a un territorio ocupado beneficiaba al enemigo. El resultado no fue una escasez absoluta de comida: hubo alimentos en el campo, hubo mercado negro para quien podía pagarlo, hubo enriquecimiento acelerado de intermediarios. Lo que hubo fue COLAPSO DEL ACCESO para la población urbana sin ingresos ni tierra.",
+        "Es exactamente lo que Amartya Sen formuló al estudiar las hambrunas: las provoca menos la falta de alimentos que el derrumbe de los derechos de acceso a ellos. La hambruna griega es un caso especialmente nítido porque tuvo una causa política identificable en cada eslabón: requisición, fragmentación administrativa, inflación de ocupación y bloqueo aliado. Solo desde 1942, tras una campaña internacional, la Cruz Roja sueca y suiza logró establecer un corredor humanitario con harina canadiense.",
+        "La lección se transfiere sin dificultad. Cuando en el Perú se discute la inseguridad alimentaria de las ollas comunes o el hambre en zonas de conflicto, la pregunta útil no es cuánto alimento hay en el país sino quién puede acceder a él y qué cadena de decisiones administrativas produce la exclusión."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "La montaña: un Estado paralelo con voto femenino",
+      "paragraphs": [
+        "La resistencia griega fue una de las más masivas de la Europa ocupada. El EAM, el Frente de Liberación Nacional, dirigido por el Partido Comunista pero mucho más amplio que él, llegó a agrupar a una fracción muy considerable de la población adulta —las estimaciones habituales hablan de más de un millón de personas sobre siete millones y medio de habitantes—, con su brazo armado ELAS. Existieron también organizaciones republicanas y anticomunistas, sobre todo el EDES de Napoleón Zervas, fuerte precisamente en el Epiro, frente a Corfú.",
+        "En las zonas montañosas liberadas se organizó lo que se llamó la Grecia Libre: tribunales populares que sustituían a un sistema judicial ausente, escuelas, hospitales de campaña, cooperativas, distribución de alimentos. En marzo de 1944 se constituyó el PEEA, un gobierno de montaña, y para elegir su Consejo Nacional se celebraron elecciones en las que VOTARON LAS MUJERES.",
+        "Detente en ese dato. Las mujeres griegas obtuvieron el derecho al voto en elecciones nacionales en 1952. En las montañas ocupadas, ocho años antes, votaron y algunas fueron elegidas. Y en la resistencia participaron masivamente como combatientes, enlaces, enfermeras y organizadoras, en una ruptura del orden de género que la sociedad rural griega no había conocido. Tras la liberación, esa experiencia fue reprimida junto con la organización que la había hecho posible, y las mujeres que habían participado quedaron doblemente marcadas: por izquierdistas y por haber salido de su lugar.",
+        "El paralelo peruano es incómodo y verdadero: los espacios de guerra y de crisis producen aperturas reales en el orden de género —las mujeres de los comités del vaso de leche y de las ollas comunes, las dirigentas de comunidades desplazadas, las presidentas de clubes de madres como María Elena Moyano— y esas aperturas suelen ser luego reabsorbidas o castigadas. La emancipación producida por la catástrofe rara vez sobrevive a la normalización."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "Represalias y exterminio: Kalávrita, Salónica, Corfú",
+      "paragraphs": [
+        "La doctrina alemana de represalia colectiva se aplicó en Grecia con una intensidad extrema. En Komeno, en agosto de 1943, fueron asesinados más de trescientos habitantes. En Kalávrita, el 13 de diciembre de 1943, fueron ejecutados en torno a setecientos hombres y muchachos del pueblo y se incendió la localidad. En Dístomo, en junio de 1944, más de doscientas personas, incluidos niños. Son solo los casos más conocidos de decenas.",
+        "Y está el exterminio de las comunidades judías, que en Grecia fue casi total. La de Salónica era una de las más antiguas y numerosas de Europa: sefardíes llegados tras la expulsión de España en 1492, con su lengua judeoespañola, sus imprentas, sus sindicatos, y durante siglos el grupo más numeroso de la ciudad. Entre marzo y agosto de 1943 fueron deportados a Auschwitz alrededor de cuarenta y seis mil judíos salonicenses; sobrevivió en torno al cuatro por ciento. Antes, en diciembre de 1942, el cementerio judío —con cientos de miles de tumbas, uno de los más antiguos de Europa— fue destruido y su piedra reutilizada en construcciones de la ciudad. El campus principal de la Universidad Aristóteles está construido sobre ese terreno.",
+        "Y está Corfú, que te concierne directamente. La comunidad judía corfiota, de origen mixto romaniota y veneciano, vivía en el barrio conocido como Evraikí, junto a la fortaleza nueva. El 9 de junio de 1944 —cuando la guerra estaba ya militarmente decidida y tres días después del desembarco de Normandía— las autoridades alemanas convocaron a la comunidad, la concentraron en la fortaleza vieja, la embarcó hacia el continente y de allí a Auschwitz. De alrededor de mil novecientas personas sobrevivieron poco más de un centenar. La sinagoga Scuola Greca sobrevivió y sigue en pie, en la calle Velissariou, y funciona.",
+        "El contraste está en la isla vecina. En Zante, el alcalde Loukás Karrer y el obispo Chrysóstomos, ante la orden de entregar la lista de los judíos de la isla, entregaron un papel con dos nombres: los suyos. La comunidad entera, unas doscientas setenta y cinco personas, fue escondida en aldeas del interior y sobrevivió íntegra. Dos islas jónicas, a poca distancia, dos resultados opuestos.",
+        "La comparación de esos dos casos es una de las lecciones morales más precisas que ofrece la historia del Holocausto, y conviene formularla con cuidado para no volverla edificante. No demuestra que bastaba con querer: las condiciones eran distintas —el tamaño de las comunidades, la geografía, el momento, la presencia alemana—. Demuestra algo más limitado y más exigente: que existía margen, que hubo funcionarios que lo usaron y funcionarios que no, y que la maquinaria del exterminio necesitaba en cada localidad de alguien que entregara la lista. La burocracia del genocidio es siempre local en su último eslabón."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Espejo peruano: quién cuenta a los muertos",
+      "paragraphs": [
+        "El conflicto armado interno peruano entre 1980 y 2000 dejó, según la estimación de la Comisión de la Verdad y Reconciliación publicada en 2003, unos sesenta y nueve mil muertos y desaparecidos, de los cuales aproximadamente tres cuartas partes tenían el quechua u otra lengua indígena como lengua materna. Esa cifra fue en sí misma un acontecimiento: era mucho mayor que la que cualquiera manejaba, y reveló que el país había ignorado la magnitud de su propia guerra porque las víctimas eran mayoritariamente rurales, pobres e indígenas.",
+        "La estructura de los episodios se parece hasta en los detalles: Lucanamarca en 1983, Accomarca en 1985, Cayara en 1988, la lógica de la represalia colectiva sobre una aldea entera por acciones atribuidas a algunos, y la disputa posterior sobre las cifras, los nombres y la calificación jurídica de los hechos. Y se parece el problema del último eslabón: en Grecia hubo Batallones de Seguridad, milicias griegas anticomunistas armadas por el ocupante; en el Perú hubo comités de autodefensa y colaboraciones locales de diverso signo. La violencia masiva siempre necesita participación local, y esa participación es lo que las memorias nacionales tardan más en admitir.",
+        "Hay, sin embargo, una diferencia decisiva y vale la pena nombrarla: Grecia procesó su ocupación dentro de un relato nacional de resistencia que, aunque selectivo y disputado, otorgó a las víctimas la condición de mártires de la nación. El Perú no logró eso. Sus muertos siguen siendo, para una parte considerable del país, sospechosos, y esa es precisamente la función del terruqueo: negar retroactivamente la condición de víctima. Judith Butler llamó a esto la distribución desigual del duelo, la cuestión de qué vidas son llorables. Grecia lloró a Kalávrita. El Perú no ha terminado de llorar a Accomarca."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Coda para el viaje: qué mirar",
+      "paragraphs": [
+        "En Corfú, ve al barrio Evraikí, detrás de la fortaleza nueva. La sinagoga Scuola Greca está abierta a visitantes en horarios limitados y la comunidad actual es de unas pocas decenas de personas. En la plaza Solomou hay un monumento a las víctimas, con una inscripción que recuerda el 9 de junio de 1944. Es un lugar discreto, sin señalización turística prominente, y por eso mismo vale la pena buscarlo. Ten presente, al recorrer la fortaleza vieja como atracción, que fue el punto de concentración previo a la deportación.",
+        "Pregunta, si hay ocasión, por Zante y por el obispo Chrysóstomos: es una historia que en las Jónicas se conoce y se cuenta con orgullo, y observar cómo se narra —qué se enfatiza, a quién se atribuye el mérito, si aparece o no la pregunta de por qué en Corfú fue distinto— es un ejercicio de memoria comparada que puedes hacer en una conversación de sobremesa.",
+        "En Atenas, si te interesa, el Museo Judío de Grecia en Plaka es pequeño y excelente, y documenta específicamente las comunidades romaniota y sefardí. Y en el barrio de Kaisarianí, donde en mayo de 1944 fueron fusilados doscientos rehenes comunistas en represalia, hay un monumento en el antiguo campo de tiro.",
+        "La próxima entrega es la más dura del bloque: la guerra civil de 1943 a 1949, que empezó dentro de la ocupación, que Churchill y Stalin repartieron en una servilleta en Moscú en octubre de 1944, que convirtió a Grecia en el primer campo de batalla de la Guerra Fría, y que instaló un Estado de vencedores cuyos certificados de convicciones nacionales condicionaron la vida de millones de personas durante treinta años."
+      ]
+    }
+  ],
+  "_file": "Entrega_21_El_invierno_y_la_lista.docx"
+}

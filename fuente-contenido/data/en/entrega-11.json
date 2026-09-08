@@ -1,0 +1,99 @@
+{
+  "numero": 11,
+  "bloque_num": "II",
+  "bloque_nombre": "OTTOMAN WORLD AND RENAISSANCE",
+  "dias": "9–14",
+  "titulo": "The Intermediary",
+  "subtitulo": "Phanariots, curacas, and the moment when whoever administers domination turns against it (1669 – 1821)",
+  "fecha_emision": "August 16, 2026",
+  "viaje": "Athens – Corfu – Paxos · departure September 11, 2026",
+  "destinataria": "Daniela Martuccelli — sociologist",
+  "registro": "analytical essay · 11 of 30",
+  "glosario": [
+    "THANKS TO",
+    "GRAND DRAGOMAN OF THE",
+    "SERVICE NOBILITY",
+    "COLLECTIVE RESPONSIBILITY",
+    "SUBLIME PORTE",
+    "XVIII"
+  ],
+  "coda": {
+    "heading": "Coda for the journey: what to look for",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "In Athens, the statue of Alexandros Ypsilantis in the Field of Mars and, above all, the iconography of March 25, the national holiday. Watch how the start of the revolution is portrayed: almost always with Bishop Germanos blessing the flag at the Agía Lavra monastery, a scene historiography considers a later invention with no solid documentary basis. The official founding act is a fabricated scene in which the Church blesses the insurrection, precisely because the real Church had excommunicated it. Nations need their origin to be clean, and when it is not, they manufacture one. Compare it with the Peruvian iconography of July 28 and with the real position of the Church and the Lima elites toward independence."
+      },
+      {
+        "label": "",
+        "text": "In Corfu, remember that the island stood outside all of this: in 1821 it had been under British protectorate for six years, and its part in the revolution was one of individuals, capital, and refugees, not of territory. Ioannis Kapodistrias, the first governor of independent Greece, was a Corfiot who had served as foreign minister to the tsar of Russia: another perfect intermediary, and he was assassinated in Nafplio in 1831 by Maniot notables he had tried to bring under state control. His house museum is on the island and is well worth the visit: it is the purest example of this entrega's thesis."
+      }
+    ],
+    "closing": [],
+    "next_hint": "The next entrega follows the money: how a technical clause in an 1774 treaty created the Greek merchant marine, how the commercial diaspora of Odessa, Vienna, and Trieste financed independence, and why that bourgeoisie, formed outside the national territory, remains in 2026 the richest and least taxed sector of Greece."
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "A service nobility made of translators",
+      "paragraphs": [
+        "In 1669, after the long war of Crete, the Ottoman Empire appointed a Greek Christian, Panagiotis Nikousios, as GRAND DRAGOMAN OF THE SUBLIME PORTE for the first time: official interpreter and, in practice, minister of foreign affairs. The post existed because the Ottoman elite did not learn European languages — doing so was considered unbecoming — and the empire, which until then had negotiated from military superiority, was beginning to need diplomacy. The defeat before the Habsburgs at Vienna in 1683 and the Treaty of Karlowitz in 1699, the first the Ottomans signed as the losing side, made the post indispensable.",
+        "Its holders came from a handful of Greek families in the Phanar district, next to the Patriarchate, in Istanbul: Mavrocordatos, Ypsilantis, Ghikas, Soutzos, Callimachi, Mourousis. They had accumulated wealth in trade and banking, educated their sons in Padua and Bologna — medicine, law, languages — and converted that cultural capital into office. Starting in 1711 in Moldavia and 1716 in Wallachia, the sultans began directly appointing Phanariot princes as governors of the two Danubian principalities, present-day Romania. For more than a century, Greeks from Istanbul governed entire provinces of the empire in the sultan's name.",
+        "Sociologically, this is a textbook SERVICE NOBILITY: its capital is linguistic and administrative, its position depends entirely on the sovereign's will, it holds no territorial base or army of its own, and its reproduction requires permanent competition against other families within the same group. It is a social type that recurs in every empire governed indirectly: the mandarins vis-à-vis the Manchu dynasty, the Indian administrators of the British Raj, the Andean curacas vis-à-vis the Spanish Crown. And it shares with all of them the same structural vulnerability: it is indispensable and disposable at once."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "What dependency produced: schools, printing presses, a language",
+      "paragraphs": [
+        "It would be a mistake to read the Phanariots only as collaborators. Their century of power produced the cultural infrastructure without which later Greek nationalism would have been impossible. They funded academies in Bucharest and Iași, libraries, translations, scholarships to study in Italy and the German states. Under their patronage, Greek became the prestige language of elites across all of southeastern Europe: Bulgarian merchants, Romanian boyars, and Serbian notables learned it and educated their children in it. Dictionaries, grammars, and editions of the classics were published, and the ideas of the French Enlightenment circulated in Greek translation.",
+        "Here a paradox emerges that deserves to be stated carefully, because it is among the most productive of the entire project. The cultural expansion of eighteenth-century Greece was possible THANKS TO the integration of its elites into the Ottoman imperial apparatus, not despite it. Greek's prestige derived from the fact that its speakers held office. The network of schools was funded by revenues drawn from governing provinces for the sultan. And that same network produced, within two generations, the very men who would conspire to destroy the empire that had made it possible.",
+        "The analogous Peruvian operation is visible in Túpac Amaru II himself. José Gabriel Condorcanqui was curaca of Surimana, Tungasuca, and Pampamarca — that is, an indigenous authority recognized by the Crown and responsible for collecting tribute from his people. He was educated by Jesuits at the Colegio San Francisco de Borja in Cusco, spoke and wrote Spanish and Latin, was a muleteer with capital of his own, and litigated for years in the colonial courts of Lima seeking recognition of his Inca lineage. In other words: he mastered the colonizer's instruments and operated within its rules through his entire adult life before rebelling in 1780. The rebellion did not come from the ignorant periphery of the colonial system, but from its best-trained intermediary, once the system stopped honoring its side of the bargain."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "1770 and 1774: the external patron enters the scene",
+      "paragraphs": [
+        "Two dates reorient everything. In 1770, during a Russo-Ottoman war, Russian agents encouraged an insurrection in the Peloponnese — the so-called Orlov Revolt — promising military support. The Greeks rose up; the Russian fleet arrived, burned the Ottoman fleet at Çeşme, and withdrew; the Ottoman repression, carried out largely by Albanian troops, was devastating and lasted for years. The lesson was etched in: an external power can ignite an uprising and abandon it once its own interests change. That lesson would be repeatedly ignored, in Greece and everywhere else.",
+        "In 1774, the Treaty of Küçük Kaynarca closed that war and contained two clauses of enormous consequence. The first granted Russia a vague power of representation on behalf of the sultan's Orthodox subjects, which Russia would interpret for a century and a half as a religious protectorate and use as a permanent lever of intervention. The second allowed Ottoman merchant ships — in practice, Greek ones — to sail under the Russian flag. That technical clause created the modern Greek merchant marine, and with it the bourgeoisie that would finance independence. That is the subject of the next entrega.",
+        "The pattern is worth pausing over, because it recurs to this day: the protection an external power extends to a religious or ethnic group within another state is at once a resource for the protected group and an instrument of penetration for the protector, and it transforms any internal grievance into a matter of international security. Russia with the Ottoman Orthodox in 1774 and France with the Catholics are the direct precedents for every later use of minority protection as cover for intervention, including those of the twenty-first century."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "1821: the intermediary breaks, the empire destroys the mediator",
+      "paragraphs": [
+        "The Filikí Etaireía, the secret society that organized the revolution, was founded in Odessa in 1814, among Greek merchants, with a Masonic ritual, cell structure, and a calculated ambiguity about Russian support, which many initiates believed guaranteed and which never was. In 1820 Alexandros Ypsilantis accepted its leadership: a Phanariot, son and grandson of princes of Wallachia, a general in the Russian imperial army, aide-de-camp to the tsar, missing an arm from a wound at Dresden. In February 1821 he crossed the Prut River into Moldavia expecting a general Balkan uprising and the tsar's support. The tsar publicly disowned him. The Danubian uprising collapsed within months; the revolution caught, instead, in the Peloponnese.",
+        "The Ottoman response marks the end of the system described in the last three entregas. On Easter Sunday 1821, Patriarch Gregory V was hanged at the main gate of the Patriarchate of Constantinople, his body left exposed for three days and then thrown into the sea; it was recovered by Greek sailors and taken to Odessa. The patriarch had formally excommunicated the insurgents weeks earlier. This is the essential point: he was executed not for what he did but for what he represented. The logic of the millet, which made the patriarch civilly responsible for all Orthodox subjects, was applied in its most brutal form: COLLECTIVE RESPONSIBILITY. If the community rebels, the guarantor pays. With that execution, and with the massacres of notables and of the Greek population in Istanbul, Smyrna, and other cities, the empire destroyed the mediating institution that had sustained its rule for nearly four centuries, and made the rupture irreversible.",
+        "The symmetry with 1781 is exact and worth holding onto. After Túpac Amaru II's defeat, the Crown did not stop at executing him along with his family in the main square of Cusco: it abolished the hereditary curacazgos, banned Inca titles, dress, portraits, theater in Quechua, and the circulation of the Comentarios reales. It destroyed, that is, the entire system of indigenous mediation. In both cases, an empire that governed indirectly responds to the mediator's betrayal by eliminating mediation itself, and is left alone facing a population it no longer has any way to administer except by force. It is a decision that is both understandable and suicidal, and it explains why empires rarely survive the crisis of their intermediaries."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "A simultaneous world: 1821 is an Atlantic year",
+      "paragraphs": [
+        "The Greek revolution is not an isolated Balkan episode: it belongs to the cycle of revolutions that the crisis of empires during and after the Napoleonic Wars made possible across the entire Atlantic world. Haiti wins independence in 1804, the first Black republic, after the only successful slave revolt in history, and pays for it with an indemnity to France beginning in 1825 that would indebt it for over a century. The Spanish American independences follow one another between 1810 and 1824: Peru's is proclaimed on July 28, 1821, six months after Ypsilantis crossed the Prut, and is sealed at Ayacucho in December 1824, just months before the Egyptian intervention nearly crushed the Greek revolution.",
+        "The simultaneity is no accident: the same collapse of the European metropoles during the Napoleonic Wars, the same circulation of Enlightenment and liberal ideas, the same commercial capital financing insurgencies, the same foreign volunteers — philhellenes in Greece, British and Irish legions in the Americas — and, very soon, the same London bankers lending to newborn states on terms that guaranteed default. Greece and Peru are born at the same moment in the world system and with the same financial birth certificate. That is the foundation of the mirror this project sustains, not a rhetorical analogy."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Resonances 2024–2026: the new intermediaries",
+      "paragraphs": [
+        "The figure of the intermediary whose legitimacy derives from an external center did not disappear with the Phanariots; it changed credentials. In Greece after 2010, politics was structured by the distinction between those regarded as reliable interlocutors by the European institutions and the International Monetary Fund and those who were not, and that external qualification carried more electoral weight and more consequences than many internal debates. Technocratic finance ministers, trained at Anglo-Saxon universities, performed exactly the dragoman's function: translating in both directions, vouching to external power for their own society's conduct, and remaining exposed to being disavowed by both sides. Yanis Varoufakis in 2015 and his successors, in the opposite sense, illustrate the two variants of the same post.",
+        "The Peruvian equivalent is the technocracy of the Ministry of Economy and the Central Bank, whose continuity through a decade of extreme presidential instability is one of the country's most striking political facts: governments that fall every few months over a technical core that endures because its legitimacy comes not from the vote but from the recognition of markets and international bodies. It is usually described as stability, and it is; it is also a way of removing economic policy from deliberation, which is precisely what the dragoman did. The question this period leaves open, and that neither society has answered, is what happens once a population stops accepting that central decisions are made by someone who answers to another public."
+      ]
+    },
+    {
+      "num": "VII",
+      "heading": "Coda for the journey: what to look for",
+      "paragraphs": [
+        "In Athens, the statue of Alexandros Ypsilantis in the Field of Mars and, above all, the iconography of March 25, the national holiday. Watch how the start of the revolution is portrayed: almost always with Bishop Germanos blessing the flag at the Agía Lavra monastery, a scene historiography considers a later invention with no solid documentary basis. The official founding act is a fabricated scene in which the Church blesses the insurrection, precisely because the real Church had excommunicated it. Nations need their origin to be clean, and when it is not, they manufacture one. Compare it with the Peruvian iconography of July 28 and with the real position of the Church and the Lima elites toward independence.",
+        "In Corfu, remember that the island stood outside all of this: in 1821 it had been under British protectorate for six years, and its part in the revolution was one of individuals, capital, and refugees, not of territory. Ioannis Kapodistrias, the first governor of independent Greece, was a Corfiot who had served as foreign minister to the tsar of Russia: another perfect intermediary, and he was assassinated in Nafplio in 1831 by Maniot notables he had tried to bring under state control. His house museum is on the island and is well worth the visit: it is the purest example of this entrega's thesis.",
+        "The next entrega follows the money: how a technical clause in an 1774 treaty created the Greek merchant marine, how the commercial diaspora of Odessa, Vienna, and Trieste financed independence, and why that bourgeoisie, formed outside the national territory, remains in 2026 the richest and least taxed sector of Greece."
+      ]
+    }
+  ]
+}

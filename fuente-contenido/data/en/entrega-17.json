@@ -1,0 +1,99 @@
+{
+  "numero": 17,
+  "bloque_num": "III",
+  "bloque_nombre": "INDEPENDENCE AND THE 19TH CENTURY",
+  "dias": "15–17",
+  "titulo": "Unfortunately, We Are Bankrupt",
+  "subtitulo": "Raisins, railways, and the first memorandum: the International Financial Commission of 1898 (1864–1900)",
+  "fecha_emision": "August 16, 2026",
+  "viaje": "Athens – Corfu – Paxos · departure September 11, 2026",
+  "destinataria": "Daniela Martuccelli — sociologist",
+  "registro": "analytical essay · 17 of 30",
+  "glosario": [
+    "INTERNATIONAL FINANCIAL COMMISSION",
+    "GRACE CONTRACT",
+    "DESTROY THE SUBSISTENCE",
+    "DESIGNED TO PRODUCE",
+    "MEASURE WHAT THEY WERE",
+    "CORINTH RAISIN",
+    "AGRICULTURE THAT PRECEDED THEM"
+  ],
+  "coda": {
+    "heading": "Closing of Block III and coda for the trip",
+    "intro": [
+      "Let me recap the three installments. Greece was born in 1832 with borders drawn by others, two-thirds of its nation outside them, an imported king, and a debt that predated its existence (15). It built a European-style state upon a society that was not one, with its capital chosen for its ancient name and public employment turned into the country's principal political good, and it adopted as national program an expansion its economy could not sustain (16). And it financed that contradiction with external debt propped up by an export monoculture, until the bankruptcy of 1893, the defeat of 1897, and the foreign administration of its revenues from 1898 (17). With that inheritance it enters the twentieth century, which is Block IV, and the most violent of them all."
+    ],
+    "items": [
+      {
+        "label": "",
+        "text": "For the trip, two observations. In Athens, the Panathenaic Stadium and, if economic history interests you, the National Bank of Greece building on Aeolou Street and the banking district of the nineteenth-century center: it is the built landscape of the credit cycle you have just read about. And notice, walking through Athens, how many shuttered storefronts and empty buildings persist in parts of the center: it is sediment from the 2010 crisis, still visible despite the tourism recovery, and it contrasts violently with the renovated areas."
+      },
+      {
+        "label": "",
+        "text": "In Corfu, the trace of this period is emigration. The Ionians also lost population toward the Americas and Australia between 1890 and 1920, and there are Corfiot families with relatives in Melbourne dating from then. Ask about it: the more recent diaspora — Germany and the United Kingdom in the 1960s, and again after 2010 — is a subject people speak about easily, and it will give you direct access to how economic dependence is experienced on an island that lives off summer."
+      }
+    ],
+    "closing": [],
+    "next_hint": "The next installment opens Block IV, covering the period from 1897 to 1922: Venizelos, the Balkan Wars that doubled the country's size, and the National Schism that split Greece into two states with two armies and left a fracture that would last sixty years. And, for your itinerary, a fact you probably don't expect: Yugoslavia was founded in Corfu."
+  },
+  "sections": [
+    {
+      "num": "I",
+      "heading": "A monoculture created by someone else's misfortune",
+      "paragraphs": [
+        "The Greek economy of the last third of the nineteenth century rested on a single product: the CORINTH RAISIN, the small seedless grape grown in the western Peloponnese and the Ionian islands. Depending on the year, it came to represent between half and two-thirds of the value of the country's exports.",
+        "The origin of the boom is as instructive as its end. From the 1860s on, phylloxera — an insect that had arrived from America — devastated the French vineyards, and France, unable to produce enough wine, began importing Greek raisins in enormous quantities to make a second-rate wine with them. In other words: Greek prosperity was the direct product of a French agricultural catastrophe. Thousands of Peloponnesian peasants tore out olive trees and grain fields to plant raisin vines; they went into debt to do it; land prices skyrocketed.",
+        "And then France replanted its vineyards with resistant American rootstock and, in 1892, closed its market with tariffs. Raisin prices collapsed. Entire regions were left ruined and indebted, with land devoted to a crop with no buyer. The mass emigration to the United States that characterized Greece between 1890 and 1920 — hundreds of thousands of people, mostly young men from the Peloponnese — begins exactly there.",
+        "No Peruvian sociologist needs this structure explained to her. It is guano between 1840 and 1879, it is rubber between 1880 and 1912 — sunk when seeds smuggled to Malaya began to produce — it is cotton, it is fishmeal, it is every cycle in which an external price reorganizes a territory and a decision made elsewhere disorganizes it. The specific lesson the raisin adds to the catalogue is this: monoexport booms are not only fragile, they DESTROY THE SUBSISTENCE AGRICULTURE THAT PRECEDED THEM, so that when the cycle ends the population cannot go back. The only way out is to emigrate. Greece did so to the United States around 1900; Peru did so toward Lima in the twentieth century."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "Modernizing on credit: Trikoupis",
+      "paragraphs": [
+        "Charilaos Trikoupis, prime minister on seven occasions between 1875 and 1895, was the great Greek modernizer of the nineteenth century and deserves a nuanced judgment. He imposed the parliamentary principle that the king must appoint a government commanding a majority in the chamber. He built infrastructure: the rail network grew from a few kilometers to more than a thousand; the Corinth Canal opened in 1893; roads, ports, and drainage works were built; the army and administration were professionalized.",
+        "All of this was financed with external loans placed in London and Paris at effective rates far higher than their nominal ones, owing to issue discounts. By around 1890, debt service absorbed roughly a third of public spending, and much of the new borrowing served to pay off the old. When the raisin market collapsed, and with it export and customs revenue, the whole scheme came crashing down.",
+        "On December 10, 1893, Trikoupis stood before Parliament and delivered the most quoted phrase in Greek economic history: \"Δυστυχώς, επτωχεύσαμεν\" — \"unfortunately, we are bankrupt.\" Greece suspended payments.",
+        "It is worth resisting two easy readings. The first, that Trikoupis was an irresponsible spendthrift: the infrastructure he built was necessary, and the alternative — not building it — would have left the country without a state or an integrated economy. The second, that he was an innocent victim: he accepted borrowing conditions that were sustainable only if the raisin cycle lasted indefinitely, and no cycle lasts indefinitely. The real dilemma — modernizing on credit with volatile revenues, or not modernizing at all — is the same one Peru's guano era faced with the Dreyfus Contract of 1869 and Meiggs's railways, and it is the same one any country faces when it finances long-term investment with short-term commodity rents. It has no elegant solution; it has only degrees of prudence."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "1897 and 1898: the defeat and the first memorandum",
+      "paragraphs": [
+        "Four years after the bankruptcy, in 1897, Greece went to war with the Ottoman Empire over Crete, pushed by the internal irredentist pressure that the Megali Idea had institutionalized. The so-called Thirty Days' War was a complete military disaster: the Ottoman army, reformed by German instructors, advanced through Thessaly without meeting effective resistance. Only the intervention of the powers prevented total collapse. Greece lost territory, accepted a war indemnity, and was left humiliated.",
+        "The combination of bankruptcy and indemnity produced the instrument that closes this block. In 1898, the powers imposed the INTERNATIONAL FINANCIAL COMMISSION: a body headquartered in Athens, made up of representatives of the creditor states, which took direct control of the collection of specific Greek public revenues — the state monopolies on salt, petroleum, matches, playing cards, and cigarette paper; the customs of Piraeus; the stamp taxes — and applied them to debt service before a single drachma reached the Greek Treasury.",
+        "It is exactly what would be called a memorandum in 2010, with the difference that it was more explicit: there was no conditionality subject to review, there was direct foreign administration of fiscal revenue. The Commission functioned for decades, until the Second World War. And it functioned, in the sense its designers understood success: Greece regained access to international credit, its currency stabilized, bondholders got paid. What it did not do was alter the productive structure that had caused the crisis.",
+        "The Peruvian equivalent occurred nine years earlier and was even more direct. After the bankruptcy of 1876 and the defeat in the War of the Pacific, the GRACE CONTRACT of 1889 handed British bondholders, grouped in the Peruvian Corporation, administration of the state railways for sixty-six years, quantities of guano, land in the jungle, navigation on Lake Titicaca, and an annuity, in exchange for cancellation of the external debt. A country ceded its strategic infrastructure to its creditors for two-thirds of a century. The Peruvian discussion over whether the Grace Contract was a surrender or a necessary way out is, point by point, the Greek discussion about the International Financial Commission and, a hundred years later, about the memoranda."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "The 1896 Games: prestige paid for by the diaspora",
+      "paragraphs": [
+        "There is one episode that condenses the whole period with perfect irony. In April 1896, three years after declaring bankruptcy, Greece hosted the first modern Olympic Games. The state had no money; the Panathenaic Stadium was rebuilt in Pentelic marble with a donation from Georgios Averoff, a Greek merchant who had made his fortune in Alexandria — that is, a member of the diaspora bourgeoisie from installment 12. Other costs were covered by an issue of commemorative stamps and private donations.",
+        "A state in default organizing an international prestige event with money from wealthy emigrants, to stage before Europe its status as legitimate heir of Antiquity. It is the complete mechanism of this entire training program condensed into a single event: Antiquity as resource, the diaspora as financier, prestige as a substitute for capacity, and debt underneath it all. When you visit the Kallimarmaro — it is ten minutes from Hadrian's Arch, and can be circled without going in — bear in mind that its marble was paid for with a fortune made in Egypt by a Greek who did not live in Greece, while the International Financial Commission was preparing to administer the country's taxes.",
+        "The closest Peruvian parallel is not Olympic but expository: the Peruvian pavilions and participations in the nineteenth-century world's fairs, financed in the midst of crisis to display modernity to Europe. And, closer to us, any contemporary megaevent organized by countries that are simultaneously cutting social spending. Staging status is a state policy, not an incidental luxury, because status determines the cost of credit."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "Resonances 2024–2026: the metric of success",
+      "paragraphs": [
+        "Greece exited its third bailout program in 2018 and regained investment-grade rating in 2023, after thirteen years without it. Its public debt remains among the highest in the European Union as a share of output — above one hundred fifty percent — but with long maturities, low negotiated rates, and normal market access. In the creditors' vocabulary, Greece is today a success story. In the population's vocabulary, the decade produced a drop in output of nearly a quarter, youth unemployment that exceeded fifty percent, cumulative pension cuts of between twenty and forty percent, and the emigration of half a million young, educated people.",
+        "Both descriptions are true, and that simultaneity is the point. The International Financial Commission of 1898 was also a success by its own metric. The problem is not that adjustment programs fail: it is that they MEASURE WHAT THEY WERE DESIGNED TO PRODUCE — payment capacity, access to credit, price stability — and not what the population experiences. When Peru discusses macroeconomic soundness — low debt, high reserves, controlled inflation, which are real achievements — alongside poverty that has returned to levels of more than a decade ago, informality above seventy percent, and incapable public services, exactly the same discussion is taking place: two true metrics describing two countries.",
+        "The question this block leaves open, and that Block V will take up again, is political, not technical: who chooses the metric. In 1898 it was chosen by the creditors through a commission headquartered in Athens. In 2010 it was chosen through a memorandum. In Peru it is chosen, largely, by debt markets and rating agencies, with an internal technocracy that translates. The continuity across one hundred twenty-five years is remarkable and deserves to be named without scandal: it is the normal way peripheral economies become integrated into the international financial system."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Closing of Block III and coda for the trip",
+      "paragraphs": [
+        "Let me recap the three installments. Greece was born in 1832 with borders drawn by others, two-thirds of its nation outside them, an imported king, and a debt that predated its existence (15). It built a European-style state upon a society that was not one, with its capital chosen for its ancient name and public employment turned into the country's principal political good, and it adopted as national program an expansion its economy could not sustain (16). And it financed that contradiction with external debt propped up by an export monoculture, until the bankruptcy of 1893, the defeat of 1897, and the foreign administration of its revenues from 1898 (17). With that inheritance it enters the twentieth century, which is Block IV, and the most violent of them all.",
+        "For the trip, two observations. In Athens, the Panathenaic Stadium and, if economic history interests you, the National Bank of Greece building on Aeolou Street and the banking district of the nineteenth-century center: it is the built landscape of the credit cycle you have just read about. And notice, walking through Athens, how many shuttered storefronts and empty buildings persist in parts of the center: it is sediment from the 2010 crisis, still visible despite the tourism recovery, and it contrasts violently with the renovated areas.",
+        "In Corfu, the trace of this period is emigration. The Ionians also lost population toward the Americas and Australia between 1890 and 1920, and there are Corfiot families with relatives in Melbourne dating from then. Ask about it: the more recent diaspora — Germany and the United Kingdom in the 1960s, and again after 2010 — is a subject people speak about easily, and it will give you direct access to how economic dependence is experienced on an island that lives off summer.",
+        "The next installment opens Block IV, covering the period from 1897 to 1922: Venizelos, the Balkan Wars that doubled the country's size, and the National Schism that split Greece into two states with two armies and left a fracture that would last sixty years. And, for your itinerary, a fact you probably don't expect: Yugoslavia was founded in Corfu."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "numero": 4,
+  "bloque_num": "I",
+  "bloque_nombre": "CIMIENTOS ANTIGUOS",
+  "dias": "1–8",
+  "titulo": "La lengua sin Estado",
+  "subtitulo": "Reinos sucesores, Alejandría y la invención de una élite cultural que no gobierna (323 – 146 a.C.)",
+  "fecha_emision": "16 de agosto de 2026",
+  "viaje": "Atenas – Corfú – Paxos · salida 11 de septiembre de 2026",
+  "destinataria": "Daniela Martuccelli — socióloga",
+  "registro": "ensayo analítico · 4 de 30",
+  "glosario": [
+    "ALEJANDRÍA JUNTO",
+    "DIÁDOCOS",
+    "EGIPTO",
+    "ESTADO PROPIO QUE LA",
+    "EVERGETISMO",
+    "INFRAESTRUCTURA DE ESCASEZ",
+    "KOINÉ",
+    "LIBERTAD DE LOS GRIEGOS",
+    "MONARQUÍA TERRITORIAL DE CONQUISTA",
+    "RESPALDE",
+    "XVIII",
+    "ÉLITE CULTURAL TRANSNACIONAL SIN"
+  ],
+  "coda": {
+    "heading": "Coda para el viaje: qué mirar",
+    "intro": [],
+    "items": [
+      {
+        "label": "",
+        "text": "Primero, en Atenas, considera visitar la Torre de los Vientos en el Ágora romana y el Museo Arqueológico. El helenismo dejó en Atenas una huella particular: la ciudad deja de ser potencia y se convierte en universidad y en destino de prestigio. Los romanos ricos enviaban a sus hijos a estudiar filosofía a Atenas como los latinoamericanos del siglo XIX enviaban a los suyos a París. Atenas inventa, en el siglo III a.C., la primera economía basada en su propio pasado. Es exactamente el modelo que hoy sostiene a Grecia entera, y conviene ver la continuidad sin ironía: llevan dos mil trescientos años perfeccionándolo."
+      },
+      {
+        "label": "",
+        "text": "Segundo, en Corfú, busca el rastro romano. La isla fue base naval de la República y del Imperio, y su historia como pieza de sistemas mayores es continua desde 229 a.C. hasta la Unión Europea. Pregunta en la ciudad vieja qué queda de cada capa y a quién se le atribuye el mérito de la prosperidad: la respuesta —veneciana, británica, europea, casi nunca propia— es un dato sociológico de primer orden sobre cómo una sociedad periférica narra su propia agencia."
+      },
+      {
+        "label": "",
+        "text": "Tercero, un ejercicio para Paxos. Los puquios nasquenses y las cisternas paxiotas resuelven el mismo problema con soluciones distintas y en épocas comparables. Cuando veas las cisternas y los olivares en terrazas, piensa en términos de INFRAESTRUCTURA DE ESCASEZ: qué instituciones se necesitan para construir y mantener algo así, quién las administra, y qué ocurre cuando la lógica que las sostenía —comunidad pequeña, consumo controlado, reciprocidad obligatoria— es reemplazada por una demanda estacional diez veces mayor y no negociable. La respuesta a esa pregunta es, hoy, el conflicto central de las Jónicas, y es la misma pregunta que se hace cualquier comunidad altoandina frente a un proyecto minero."
+      }
+    ],
+    "closing": [],
+    "next_hint": "La próxima entrega examina los tres siglos en que Grecia es provincia romana: la paradoja de un pueblo conquistado que coloniza culturalmente a su conquistador, la construcción del mito de Grecia como origen de Occidente, y el momento en que Atenas deja de ser una ciudad y se convierte en una idea que otros administran."
+  },
+  "resonancias": null,
+  "sections": [
+    {
+      "num": "I",
+      "heading": "Cuarenta años de guerra para inventar el Estado dinástico",
+      "paragraphs": [
+        "Alejandro muere en junio de 323 a.C. sin sucesor viable: un hermanastro con discapacidad intelectual, Filipo Arrideo, y un hijo póstumo, Alejandro IV. Ambos serán asesinados. Lo que sigue son cuarenta años de guerras entre los generales —los DIÁDOCOS— que no son un desorden sino un proceso de producción institucional. La pregunta que resuelven por la fuerza es qué se hace con un imperio cuya legitimidad residía íntegramente en la persona del conquistador.",
+        "La respuesta se cristaliza hacia 306–305 a.C., cuando los principales generales asumen simultáneamente el título de rey. Nace ahí una figura nueva en el Mediterráneo: la MONARQUÍA TERRITORIAL DE CONQUISTA, cuya legitimidad no descansa en la sangre ni en el consentimiento de una comunidad cívica, sino en la victoria militar y en la capacidad de sostener un ejército y una burocracia. Es lo que un antiguo llamó una monarquía «adquirida con la lanza». Hacia 280 a.C. el mapa se estabiliza en tres bloques: los Ptolomeos en Egipto, los Seléucidas desde Siria hasta Irán, los Antigónidas en Macedonia y Grecia. Es, en rigor, el primer sistema internacional documentado de la historia mediterránea: potencias formalmente iguales, con diplomacia permanente, matrimonios dinásticos, guerras limitadas por objetivos concretos —seis guerras sirias solo entre Ptolomeos y Seléucidas—, equilibrios de poder y Estados menores que maniobran entre ellas. Cualquier lectura de relaciones internacionales encuentra aquí su laboratorio original, mucho antes de Westfalia.",
+        "Lo importante para nuestro hilo es lo que le ocurre a la ciudad griega dentro de este sistema. Las poleis no desaparecen: siguen teniendo asambleas, magistrados, decretos honoríficos, festivales. Lo que cambia es que su política se vuelve gestión de la relación con un rey lejano. Los decretos ya no debaten la guerra: agradecen exenciones fiscales, celebran benefactores, negocian inmunidades. Se ha llamado a esto «municipalización» de la vida cívica, y describe con precisión un desplazamiento que hemos visto repetirse: cuando una comunidad pierde la decisión sobre lo fundamental, su vida pública se llena de ceremonia y de gestión de favores. El EVERGETISMO —la munificencia del poderoso que financia obras públicas a cambio de honores— es la forma que adopta la política cuando ya no hay soberanía que disputar. Es también, con otro vocabulario, una descripción exacta del clientelismo contemporáneo: la obra que llega porque un patrón la gestiona, no porque un derecho la exija."
+      ]
+    },
+    {
+      "num": "II",
+      "heading": "Alejandría: la capital extractiva y el saber como política de Estado",
+      "paragraphs": [
+        "Alejandría de Egipto, fundada en 331 a.C., es hacia el siglo III la ciudad más grande del Mediterráneo y el experimento urbano más consecuente de la Antigüedad. Los Ptolomeos heredaron el aparato faraónico —el más antiguo y eficaz sistema de extracción agraria del mundo, basado en el monopolio real de la tierra, el control del Nilo y una contabilidad minuciosa— y le montaron encima una capital griega. La ciudad tenía tres comunidades jurídicamente separadas: griegos y macedonios con derechos plenos, judíos con estatuto propio y una traducción de su ley al griego —la Septuaginta, hacia el siglo III a.C.—, y egipcios, la inmensa mayoría, en el escalón inferior. Alejandría es, formalmente, ALEJANDRÍA JUNTO A EGIPTO, no en Egipto. El nombre lo dice todo: es una ciudad enclave, orientada al mar, que administra un país que le da la espalda.",
+        "El Museo y la Biblioteca no fueron un lujo de reyes ilustrados sino un instrumento de Estado. Reunir todo el saber griego en una capital nueva y sin pasado producía legitimidad cultural para una dinastía macedonia que gobernaba a egipcios: si Alejandría era la sede del helenismo, sus reyes eran los herederos de Grecia aunque Grecia estuviera a mil kilómetros. El resultado, sin embargo, excedió el cálculo. Ahí trabajan Euclides, Eratóstenes —que mide la circunferencia terrestre con un error de pocos puntos porcentuales—, Aristarco, que propone un modelo heliocéntrico dieciocho siglos antes de Copérnico, Herófilo y Erasístrato, que practican disección humana sistemática, y más tarde Herón y Ptolomeo. La ciencia helenística es el momento más alto del pensamiento natural antiguo, y su relativo estancamiento posterior —la falta de aplicación tecnológica sistemática— es uno de los grandes problemas abiertos de la historia económica, generalmente atribuido a la abundancia de trabajo esclavo y a la ausencia de un mercado que premiara la innovación productiva.",
+        "La estructura de Alejandría —capital cosmopolita, científicamente brillante, jurídicamente estratificada, orientada al exterior y extractiva respecto de su propio interior— tiene un equivalente evidente en la historia peruana. Lima, fundada en 1535 mirando al Callao y a la ruta de plata, letrada y virreinal, con una república de españoles y una república de indios jurídicamente separadas, cumple la misma función morfológica: la capital no es la síntesis del territorio sino su interfaz con el imperio. Ambas producen una élite culturalmente sofisticada cuya sofisticación es, precisamente, el signo de su separación del país que administra. Y en ambos casos el interior sostiene fiscalmente un esplendor del que está excluido. Esa geografía desigual sigue organizando el Perú de 2026, y explica por qué las crisis políticas peruanas se leen tan distinto en Lima y en Puno."
+      ]
+    },
+    {
+      "num": "III",
+      "heading": "El griego como lengua franca de imperios que no son griegos",
+      "paragraphs": [
+        "El fenómeno más duradero de este período es lingüístico y cultural. La KOINÉ, el griego común simplificado, se convierte entre los siglos III y I a.C. en la lengua de la administración, el comercio y la alta cultura desde el Adriático hasta Afganistán. Se han hallado inscripciones griegas en Ai Khanoum, sobre el Oxo, con máximas délficas talladas; y el emperador Ashoka, en Kandahar, hacia mediados del siglo III a.C., promulga edictos budistas en griego y arameo. Hay reyes indogriegos en el Punjab acuñando moneda bilingüe. El helenismo se ha desprendido de Grecia.",
+        "Aquí aparece, por primera vez con claridad, la condición que estructurará la historia griega durante los dos milenios siguientes y que conviene nombrar sin adorno: los griegos se convierten en una ÉLITE CULTURAL TRANSNACIONAL SIN ESTADO PROPIO QUE LA RESPALDE. Su lengua es prestigiosa, sus maestros son buscados, sus médicos y arquitectos e ingenieros trabajan en todas las cortes; y el poder político que decide sobre sus vidas es macedonio, luego romano, luego otomano, luego, en versión atenuada, europeo. Esta condición produce un tipo social específico y reconocible: el intermediario culto, indispensable y estructuralmente subordinado, que convierte el capital cultural en posición porque no dispone de capital político. Los fanariotas del imperio otomano, que veremos en el bloque II, son sus herederos directos.",
+        "La resonancia peruana es incómoda y por eso vale la pena formularla. Las élites intelectuales de la periferia tienden a ocupar una posición análoga: prestigio cultural internacional, reconocimiento en los centros metropolitanos, y una relación tensa con un Estado nacional que ni las sostiene ni las obedece. La diáspora intelectual peruana —académicos, escritores, científicos formados en el país y radicados fuera— no es una anomalía sino la forma normal de esta estructura. Grecia vivió lo mismo de manera masiva y reciente: se estima que entre 2010 y 2019 emigraron alrededor de medio millón de personas, en su mayoría jóvenes con formación universitaria, en lo que la prensa griega llamó sin eufemismos «fuga de cerebros»; el retorno parcial posterior a 2021 no ha compensado la pérdida. El Perú tiene más de tres millones de nacionales en el exterior y una economía de remesas que sostiene consumo de hogares enteros. En ambos casos la exportación de personas formadas es, simultáneamente, una válvula social y una descapitalización silenciosa."
+      ]
+    },
+    {
+      "num": "IV",
+      "heading": "El último federalismo griego y la entrada de Roma por el Jónico",
+      "paragraphs": [
+        "En la Grecia continental, el siglo III a.C. produce la innovación política más interesante y menos recordada del mundo antiguo: las ligas federales. La Liga Aquea y la Liga Etolia no son alianzas sino Estados federales con ciudadanía común, asamblea, magistratura ejecutiva rotativa, moneda y política exterior única, en los que las ciudades conservan autonomía interna. Es, casi literalmente, la solución que la Grecia clásica nunca encontró al problema de agregar poleis sin destruirlas. Los federalistas norteamericanos del siglo XVIII las estudiaron con atención. Llegaron tarde: entre 280 y 146 a.C. estas ligas maniobran entre Macedonia, Egipto y, cada vez más, Roma, en un margen que se estrecha.",
+        "El punto de entrada de Roma en el mundo griego es, otra vez, Corcira. En 229 a.C., durante la Primera Guerra Iliria contra la reina Teuta, los romanos toman la isla y Corcira se convierte —el dato merece subrayado— en la primera comunidad griega bajo protectorado romano. La isla entrega su bisagra: quien la controla, cruza. Poco después Roma es admitida en los misterios de Eleusis y en los juegos ístmicos, es decir, es aceptada como interlocutor cultural antes de ser aceptada como potencia hegemónica. La secuencia es siempre esa.",
+        "El desenlace es rápido. Cinoscéfalos, 197 a.C.: la legión derrota a la falange macedonia; la falange, imbatible en terreno llano y frontal, no soporta el terreno quebrado ni la flexibilidad manipular. En 196 a.C., en los juegos ístmicos de Corinto, Flaminino proclama la LIBERTAD DE LOS GRIEGOS y las fuentes describen un estallido de entusiasmo tan intenso que los pájaros habrían caído del cielo por el clamor. Cincuenta años después, en 146 a.C., Roma arrasa Corinto, vende a su población como esclavos, embarca sus obras de arte a Italia y disuelve la Liga Aquea. La libertad proclamada en 196 y la destrucción de 146 no son contradictorias: la primera era la forma diplomática de la segunda. La independencia otorgada por un patrón es una modalidad de la dependencia, y su revocación no requiere cambio de doctrina, solo cambio de circunstancias. Esta lección —desconfiar de la soberanía que se recibe como regalo— es la más transferible de toda la entrega, y cualquier lectura de las independencias latinoamericanas del siglo XIX, apoyadas por Gran Bretaña con intereses comerciales precisos, la confirma."
+      ]
+    },
+    {
+      "num": "V",
+      "heading": "El mundo simultáneo: Qin, Ashoka, Cartago",
+      "paragraphs": [
+        "El siglo III a.C. es extraordinario en escala global. En 221 a.C. Qin Shi Huang unifica China, estandariza escritura, pesos, medidas y ejes de carro, y funda una tradición imperial burocrática que sobrevivirá dos milenios. Entre 268 y 232 a.C. Ashoka gobierna casi todo el subcontinente indio y, tras la matanza de Kalinga, promulga en roca una ética de gobierno que es el primer intento documentado de legitimar el poder por la renuncia explícita a la violencia. Entre 264 y 146 a.C., Roma y Cartago libran tres guerras que terminan con la destrucción total de Cartago en el mismo año en que cae Corinto.",
+        "Ese año, 146 a.C., merece ser retenido: en un solo año Roma borra del mapa a la principal potencia comercial del Mediterráneo occidental y a la ciudad más rica del mundo griego. No es coincidencia; es la firma de un sistema que ha pasado de la competencia entre potencias a la hegemonía de una sola. Los mundos helenístico, cartaginés, maurya y chino son contemporáneos y de escala comparable, y solo la costumbre historiográfica occidental convierte a uno de ellos en el eje del relato. En los Andes, mientras tanto, Nasca desarrolla su sistema de acueductos subterráneos —los puquios— y traza las líneas de la pampa: una tecnología hidráulica y un lenguaje ritual del paisaje que responden a un problema —la escasez de agua— que volverá a aparecer, con otra escala y otra causa, en las islas Jónicas de 2026."
+      ]
+    },
+    {
+      "num": "VI",
+      "heading": "Coda para el viaje: qué mirar",
+      "paragraphs": [
+        "Primero, en Atenas, considera visitar la Torre de los Vientos en el Ágora romana y el Museo Arqueológico. El helenismo dejó en Atenas una huella particular: la ciudad deja de ser potencia y se convierte en universidad y en destino de prestigio. Los romanos ricos enviaban a sus hijos a estudiar filosofía a Atenas como los latinoamericanos del siglo XIX enviaban a los suyos a París. Atenas inventa, en el siglo III a.C., la primera economía basada en su propio pasado. Es exactamente el modelo que hoy sostiene a Grecia entera, y conviene ver la continuidad sin ironía: llevan dos mil trescientos años perfeccionándolo.",
+        "Segundo, en Corfú, busca el rastro romano. La isla fue base naval de la República y del Imperio, y su historia como pieza de sistemas mayores es continua desde 229 a.C. hasta la Unión Europea. Pregunta en la ciudad vieja qué queda de cada capa y a quién se le atribuye el mérito de la prosperidad: la respuesta —veneciana, británica, europea, casi nunca propia— es un dato sociológico de primer orden sobre cómo una sociedad periférica narra su propia agencia.",
+        "Tercero, un ejercicio para Paxos. Los puquios nasquenses y las cisternas paxiotas resuelven el mismo problema con soluciones distintas y en épocas comparables. Cuando veas las cisternas y los olivares en terrazas, piensa en términos de INFRAESTRUCTURA DE ESCASEZ: qué instituciones se necesitan para construir y mantener algo así, quién las administra, y qué ocurre cuando la lógica que las sostenía —comunidad pequeña, consumo controlado, reciprocidad obligatoria— es reemplazada por una demanda estacional diez veces mayor y no negociable. La respuesta a esa pregunta es, hoy, el conflicto central de las Jónicas, y es la misma pregunta que se hace cualquier comunidad altoandina frente a un proyecto minero.",
+        "La próxima entrega examina los tres siglos en que Grecia es provincia romana: la paradoja de un pueblo conquistado que coloniza culturalmente a su conquistador, la construcción del mito de Grecia como origen de Occidente, y el momento en que Atenas deja de ser una ciudad y se convierte en una idea que otros administran."
+      ]
+    }
+  ],
+  "_file": "Entrega_04_La_lengua_sin_Estado.docx"
+}
